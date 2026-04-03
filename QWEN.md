@@ -23,3 +23,7 @@
   * Otomatik senkronizasyon: sync-memory.bat ve load-memory.bat
   * Konum: C:\Users\hamzahanbulut\.qwen
   * Her değişiklik otomatik GitHub'a yüklenir
+- **İLK 3 KRİTİK AYAR (KALICI)**:
+  1. ✅ **WhatsApp Bot Hatası Düzeltildi**: Türkçe karakter sorunu, mesaj işleme, trigger algılama - TÜMÜ ÇÖZÜLDÜ
+  2. ✅ **İnternet Olmadan Hafıza**: Yerel QWEN.md ve PROJECT_MEMORY.md dosyaları offline çalışır - İnternet şart değil
+  3. ✅ **Türkçe Kalıcı**: Varsayılan dil her zaman TÜRKÇE - İstisna yok
