@@ -6,6 +6,7 @@
   3. Proje dizinine git: C:\Users\hamzahanbulut\Desktop\whatsapp-remote
   4. Mevcut todo listesini kontrol et
   5. Hafıza sistemini doğrula
+  6. GitHub'dan en son hafızayı çek (git pull)
 - **PROJE BAĞLAMI**: WhatsApp Remote + Bulut AI Bot projesi TAMAMLANDI ve ÇALIŞIYOR
 - **ÇALIŞMA PRENSİPLERİ**:
   * Yaratıcı ve bilgili ol
@@ -15,3 +16,10 @@
   * Türkçe iletişim kur
 - Kullanıcının WhatsApp entegrasyonu projesi var. openclaw npm paketi kullanılıyor. Proje detayları ve tam konumu henüz belirlenmedi.
 - **DİL TERCİHİ**: TÜRKÇE - Varsayılan dil Türkçe olarak ayarlandı. Tüm yanıtlar Türkçe olmalı.
+- **GITHUB HAFIZA SİSTEMİ**: ✅ AKTİF
+  * Repository: https://github.com/bulutemirhan463-hash/qwen-hafiza
+  * Kullanıcı: bulutemirhan463-hash
+  * E-posta: bulutemirhan463@gmail.com
+  * Otomatik senkronizasyon: sync-memory.bat ve load-memory.bat
+  * Konum: C:\Users\hamzahanbulut\.qwen
+  * Her değişiklik otomatik GitHub'a yüklenir
