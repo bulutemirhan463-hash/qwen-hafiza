@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "content": "Mevcut hafıza durumunu kaydet (snapshot)",
+      "id": "1",
+      "status": "completed"
+    },
+    {
+      "content": "Sanal kapanış simülasyonu",
+      "id": "2",
+      "status": "completed"
+    },
+    {
+      "content": "Sanal açılış ve hafıza yükleme simülasyonu",
+      "id": "3",
+      "status": "in_progress"
+    },
+    {
+      "content": "Hafıza bütünlüğünü doğrula",
+      "id": "4",
+      "status": "pending"
+    },
+    {
+      "content": "Detaylı test raporu oluştur",
+      "id": "5",
+      "status": "pending"
+    }
+  ],
+  "sessionId": "f8b6c487-cbfc-4aa6-bfcb-d9170913ff94"
+}
