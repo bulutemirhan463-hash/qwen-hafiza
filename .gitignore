@@ -1,0 +1,22 @@
+# OAuth ve hassas bilgiler
+oauth_creds.json
+settings.json
+settings.json.orig
+installation_id
+
+# Geçici dosyalar
+tmp/
+debug/
+latest
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Node
+node_modules/
+package-lock.json
