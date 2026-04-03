@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "content": "Telegram bot yapılandırması",
+      "id": "1",
+      "status": "completed"
+    },
+    {
+      "content": "WhatsApp kanal yapılandırması",
+      "id": "2",
+      "status": "completed"
+    },
+    {
+      "content": "Her iki kanalı OpenClaw'a ekle",
+      "id": "3",
+      "status": "completed"
+    },
+    {
+      "content": "Pairing/onay işlemlerini tamamla",
+      "id": "4",
+      "status": "completed"
+    }
+  ],
+  "sessionId": "7f844e47-3598-4c2f-b33e-23492d8033ad"
+}

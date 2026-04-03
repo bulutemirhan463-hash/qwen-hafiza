@@ -1,0 +1,50 @@
+{
+  "todos": [
+    {
+      "content": "React projesini oluştur (Vite + TypeScript)",
+      "id": "1",
+      "status": "completed"
+    },
+    {
+      "content": "Bootstrap ve Three.js bağımlılıklarını yükle",
+      "id": "2",
+      "status": "completed"
+    },
+    {
+      "content": "Ana layout ve tema yapısını kur",
+      "id": "3",
+      "status": "completed"
+    },
+    {
+      "content": "3D yıldız alanı animasyonunu implement et",
+      "id": "4",
+      "status": "completed"
+    },
+    {
+      "content": "Hero bölümünü tasarla",
+      "id": "5",
+      "status": "completed"
+    },
+    {
+      "content": "Galaksi galeri bölümünü ekle",
+      "id": "6",
+      "status": "completed"
+    },
+    {
+      "content": "İnteraktif özellikler ve animasyonlar ekle",
+      "id": "7",
+      "status": "completed"
+    },
+    {
+      "content": "Responsive tasarım ayarlarını yap",
+      "id": "8",
+      "status": "completed"
+    },
+    {
+      "content": "Build al ve test et",
+      "id": "9",
+      "status": "completed"
+    }
+  ],
+  "sessionId": "5306f1cc-0617-41e9-9692-447748e21a3e"
+}

@@ -1,0 +1,1225 @@
+Command: driverquery /v /fo table
+Directory: (root)
+Output: 
+Module Name  Display Name           Description            Driver Type   Start Mode State      Status     
+Accept Stop Accept Pause Paged Pool(bytes) Code(bytes) BSS(bytes) Link Date              Path
+                                Init(bytes)
+============ ====================== ====================== ============= ========== ========== ========== 
+=========== ============ ================= =========== ========== ====================== =================
+=============================== ===========
+1394ohci     1394 OHCI Uyumlu Ana B 1394 OHCI Uyumlu Ana B Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             229.376     0                                 C:\WINDOWS\system
+32\drivers\1394ohci.sys         4.096
+3ware        3ware                  3ware                  Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 81.920      0          19.05.2015 01:28:03    C:\WINDOWS\system
+32\drivers\3ware.sys            4.096
+ACPI         Microsoft ACPI Sürücüs Microsoft ACPI Sürücüs Kernel        Boot       Running    OK
+TRUE        FALSE        176.128           442.368     0                                 C:\WINDOWS\system
+32\drivers\ACPI.sys             24.576
+AcpiDev      ACPI Cihazlar için sür ACPI Cihazlar için sür Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             8.192       0                                 C:\WINDOWS\system
+32\drivers\AcpiDev.sys          4.096
+acpiex       Microsoft ACPIEx Drive Microsoft ACPIEx Drive Kernel        Boot       Running    OK
+TRUE        FALSE        40.960            65.536      0                                 C:\WINDOWS\system
+32\Drivers\acpiex.sys           4.096
+acpipagr     ACPI İşlemci Toplayıcı ACPI İşlemci Toplayıcı Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\acpipagr.sys         4.096
+AcpiPmi      ACPI Güç Ölçme Sürücüs ACPI Güç Ölçme Sürücüs Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\acpipmi.sys          4.096
+acpitime     ACPI Uyandırma Uyarısı ACPI Uyandırma Uyarısı Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\acpitime.sys         4.096
+Acx01000     Acx01000               Acx01000               Kernel        Manual     Stopped    OK
+FALSE       FALSE        503.808           122.880     0                                 C:\WINDOWS\system
+32\drivers\Acx01000.sys         4.096
+ADP80XX      ADP80XX                ADP80XX                Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 1.101.824   0          9.04.2015 23:49:48     C:\WINDOWS\system
+32\drivers\ADP80XX.SYS          4.096
+aehd         Android Emulator hyper Android Emulator hyper Kernel        System     Running    OK
+TRUE        FALSE        8.192             245.760     0          26.03.2024 23:55:18    C:\WINDOWS\system
+32\DRIVERS\aehd.sys             4.096
+AFD          Winsock İçin Yardımcı  Winsock İçin Yardımcı  Kernel        System     Running    OK
+TRUE        FALSE        344.064           126.976     0                                 C:\WINDOWS\system
+32\drivers\afd.sys              12.288
+afunix       afunix                 afunix                 Kernel        System     Running    OK
+TRUE        FALSE        28.672            12.288      0                                 C:\WINDOWS\system
+32\drivers\afunix.sys           4.096
+ahcache      Application Compatibil Application Compatibil Kernel        System     Running    OK
+TRUE        FALSE        184.320           24.576      0                                 C:\WINDOWS\system
+32\DRIVERS\ahcache.sys          4.096
+amdgpio2     AMD GPIO İstemci Sürüc AMD GPIO İstemci Sürüc Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0          7.02.2019 12:32:20     C:\WINDOWS\system
+32\drivers\amdgpio2.sys         4.096
+amdi2c       AMD I2C Denetleyici Hi AMD I2C Denetleyici Hi Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             36.864      0          20.03.2019 07:57:33    C:\WINDOWS\system
+32\drivers\amdi2c.sys           4.096
+AmdK8        AMD K8 İşlemci Sürücüs AMD K8 İşlemci Sürücüs Kernel        Manual     Stopped    OK
+FALSE       FALSE        106.496           57.344      0                                 C:\WINDOWS\system
+32\drivers\amdk8.sys            8.192
+AmdPPM       AMD İşlemcisi Sürücüsü AMD İşlemcisi Sürücüsü Kernel        Manual     Stopped    OK
+FALSE       FALSE        106.496           61.440      0                                 C:\WINDOWS\system
+32\drivers\amdppm.sys           8.192
+amdsata      amdsata                amdsata                Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 61.440      0          14.05.2015 15:14:52    C:\WINDOWS\system
+32\drivers\amdsata.sys          4.096
+amdsbs       amdsbs                 amdsbs                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 229.376     0          12.12.2012 00:21:44    C:\WINDOWS\system
+32\drivers\amdsbs.sys           4.096
+amdxata      amdxata                amdxata                Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             4.096       0          1.05.2015 03:55:35     C:\WINDOWS\system
+32\drivers\amdxata.sys          4.096
+AppID        AppID Driver           AppID Driver           Kernel        Manual     Stopped    OK
+FALSE       FALSE        94.208            24.576      0                                 C:\WINDOWS\system
+32\drivers\appid.sys            4.096
+applockerflt Smartlocker Filter Dri Smartlocker Filter Dri Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\applockerfltr.sys    4.096
+AppvStrm     AppvStrm               AppvStrm               File System   Manual     Stopped    OK
+FALSE       FALSE        4.096             86.016      0                                 C:\WINDOWS\system
+32\drivers\AppvStrm.sys         4.096
+AppvVemgr    AppvVemgr              AppvVemgr              File System   Manual     Stopped    OK
+FALSE       FALSE        8.192             106.496     0                                 C:\WINDOWS\system
+32\drivers\AppvVemgr.sys        4.096
+AppvVfs      AppvVfs                AppvVfs                File System   Manual     Stopped    OK
+FALSE       FALSE        12.288            86.016      0                                 C:\WINDOWS\system
+32\drivers\AppvVfs.sys          4.096
+arcsas       Adaptec SAS/SATA-II RA Adaptec SAS/SATA-II RA Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 110.592     0          9.04.2015 22:12:07     C:\WINDOWS\system
+32\drivers\arcsas.sys           4.096      
+AsyncMac     RAS Asynchronous Media RAS Asynchronous Media Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 20.480      0                                 C:\WINDOWS\system
+32\drivers\asyncmac.sys         4.096
+atapi        IDE Kanalı             IDE Kanalı             Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 16.384      0                                 C:\WINDOWS\system
+32\drivers\atapi.sys            4.096
+b06bdrv      QLogic Ağ Bağdaştırıcı QLogic Ağ Bağdaştırıcı Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 221.184     0          25.05.2016 10:03:08    C:\WINDOWS\system
+32\drivers\bxvbda.sys           4.096
+bam          Background Activity Mo Background Activity Mo Kernel        System     Running    OK
+TRUE        FALSE        45.056            4.096       0                                 C:\WINDOWS\system
+32\drivers\bam.sys              4.096
+BasicDisplay BasicDisplay           BasicDisplay           Kernel        System     Running    OK
+TRUE        FALSE        40.960            8.192       0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\b 4.096
+BasicRender  BasicRender            BasicRender            Kernel        System     Running    OK
+TRUE        FALSE        4.096             32.768      0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\b 4.096
+bcmfn2       bcmfn2 Service         bcmfn2 Service         Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0          1.11.2016 05:09:15     C:\WINDOWS\system
+32\drivers\bcmfn2.sys           4.096
+Beep         Beep                   Beep                   Kernel        System     Running    OK
+TRUE        FALSE        0                 4.096       0                                 C:\WINDOWS\system
+32\drivers\Beep.sys             4.096
+bindflt      Windows Bind Filter Dr Windows Bind Filter Dr File System   Auto       Running    OK
+TRUE        FALSE        90.112            20.480      0                                 C:\WINDOWS\system
+32\drivers\bindflt.sys          4.096
+BlueStacksDr BlueStacks Hypervisor_ BlueStacks Hypervisor_ Kernel        Auto       Running    OK
+TRUE        FALSE        0                 233.472     0          28.03.2025 05:51:16    \??\C:\Program Fi
+les\BlueStacks_nxt\BstkDrv_nxt. 4.096
+bowser       Tarayıcı               Tarayıcı               File System   Manual     Running    OK
+TRUE        FALSE        73.728            20.480      0                                 C:\WINDOWS\system
+32\DRIVERS\bowser.sys           4.096
+BthA2dp      Microsoft Bluetooth A2 Microsoft Bluetooth A2 Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            196.608     0                                 C:\WINDOWS\system
+32\drivers\BthA2dp.sys          4.096
+BthEnum      Bluetooth Numaralandır Bluetooth Numaralandır Kernel        Manual     Stopped    OK
+FALSE       FALSE        32.768            28.672      0                                 C:\WINDOWS\system
+32\drivers\BthEnum.sys          4.096
+BthHFAud     Microsoft Bluetooth Tu Microsoft Bluetooth Tu Kernel        Manual     Stopped    OK
+FALSE       FALSE        20.480            24.576      0                                 C:\WINDOWS\system
+32\drivers\BthHfAud.sys         4.096
+BthHFEnum    Microsoft Bluetooth Tu Microsoft Bluetooth Tu Kernel        Manual     Stopped    OK
+FALSE       FALSE        28.672            90.112      0                                 C:\WINDOWS\system
+32\drivers\bthhfenum.sys        4.096
+BthLEEnum    Bluetooth Düşük Enerji Bluetooth Düşük Enerji Kernel        Manual     Stopped    OK
+FALSE       FALSE        57.344            24.576      0                                 C:\WINDOWS\system
+32\drivers\Microsoft.Bluetooth. 4.096
+BthMini      Bluetooth Radyo Sürücü Bluetooth Radyo Sürücü Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             20.480      0                                 C:\WINDOWS\system
+32\drivers\BTHMINI.sys          4.096
+BTHMODEM     Bluetooth Modem İletiş Bluetooth Modem İletiş Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            53.248      0                                 C:\WINDOWS\system
+32\drivers\bthmodem.sys         4.096
+BthPan       Bluetooth Aygıtı (Kişi Bluetooth Aygıtı (Kişi Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            102.400     0                                 C:\WINDOWS\system
+32\drivers\bthpan.sys           4.096
+BTHPORT      Bluetooth Bağlantı Nok Bluetooth Bağlantı Nok Kernel        Manual     Running    OK
+TRUE        FALSE        303.104           987.136     0                                 C:\WINDOWS\system
+32\drivers\BTHport.sys          8.192
+BTHUSB       Bluetooth Radyo USB Sü Bluetooth Radyo USB Sü Kernel        Manual     Running    OK
+TRUE        FALSE        24.576            61.440      0                                 C:\WINDOWS\system
+32\drivers\BTHUSB.sys           4.096
+bttflt       Microsoft Hyper-V VHDP Microsoft Hyper-V VHDP Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             16.384      0                                 C:\WINDOWS\system
+32\drivers\bttflt.sys           4.096
+buttonconver Taşınabilir Cihaz Dene Taşınabilir Cihaz Dene Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             24.576      0                                 C:\WINDOWS\system
+32\drivers\buttonconverter.sys  4.096
+CAD          Şarj Yönetim Sürücüsü  Şarj Yönetim Sürücüsü  Kernel        Manual     Running    OK
+TRUE        FALSE        28.672            8.192       0                                 C:\WINDOWS\system
+32\drivers\CAD.sys              4.096
+cdfs         CD/DVD File System Rea CD/DVD File System Rea File System   Disabled   Stopped    OK
+FALSE       FALSE        69.632            12.288      0                                 C:\WINDOWS\system
+32\DRIVERS\cdfs.sys             4.096
+cdrom        CD-ROM Sürücüsü        CD-ROM Sürücüsü        Kernel        System     Running    OK
+TRUE        FALSE        81.920            65.536      0                                 C:\WINDOWS\system
+32\drivers\cdrom.sys            4.096
+cht4iscsi    cht4iscsi              cht4iscsi              Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             278.528     0          5.02.2019 16:51:31     C:\WINDOWS\system
+32\drivers\cht4sx64.sys         4.096
+cht4vbd      Chelsio Sanal Veri Yol Chelsio Sanal Veri Yol Kernel        Manual     Stopped    OK
+FALSE       FALSE        1.433.600         208.896     0          5.02.2019 16:47:51     C:\WINDOWS\system
+32\drivers\cht4vx64.sys         4.096
+CimFS        CimFS                  CimFS                  File System   System     Running    OK
+TRUE        FALSE        8.192             65.536      0                                 C:\WINDOWS\system
+32\drivers\CimFS.sys            4.096
+circlass     Tüketici Kızılötesi Ay Tüketici Kızılötesi Ay Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             36.864      0                                 C:\WINDOWS\system
+32\drivers\circlass.sys         4.096
+CldFlt       Windows Cloud Files Fi Windows Cloud Files Fi File System   Auto       Running    OK
+TRUE        FALSE        327.680           110.592     0                                 C:\WINDOWS\system
+32\drivers\cldflt.sys           4.096
+CLFS         Common Log (CLFS)      Common Log (CLFS)      Kernel        Boot       Running    OK
+TRUE        FALSE        262.144           77.824      0                                 C:\WINDOWS\system
+32\drivers\CLFS.sys             4.096
+CmBatt       Microsoft ACPI Denetim Microsoft ACPI Denetim Kernel        Manual     Running    OK
+TRUE        FALSE        20.480            4.096       0                                 C:\WINDOWS\system
+32\drivers\CmBatt.sys           4.096
+CNG          CNG                    CNG                    Kernel        Boot       Running    OK
+TRUE        FALSE        0                 565.248     0                                 C:\WINDOWS\system
+32\Drivers\cng.sys              4.096
+cnghwassist  CNG Hardware Assist al CNG Hardware Assist al Kernel        Disabled   Stopped    OK
+FALSE       FALSE        8.192             16.384      0                                 C:\WINDOWS\system
+32\DRIVERS\cnghwassist.sys      4.096
+CompositeBus Bileşik Veri Yolu Numa Bileşik Veri Yolu Numa Kernel        Manual     Running    OK
+TRUE        FALSE        24.576            8.192       0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\c 4.096
+condrv       Console Driver         Console Driver         Kernel        Manual     Running    OK
+TRUE        FALSE        28.672            4.096       0                                 C:\WINDOWS\system
+32\drivers\condrv.sys           4.096
+CSC          Çevrimdışı Dosyalar Sü Çevrimdışı Dosyalar Sü Kernel        System     Running    OK
+TRUE        FALSE        303.104           184.320     0                                 C:\WINDOWS\system
+32\drivers\csc.sys              12.288
+dam          Desktop Activity Moder Desktop Activity Moder Kernel        System     Stopped    OK
+FALSE       FALSE        49.152            4.096       0                                 C:\WINDOWS\system
+32\drivers\dam.sys              4.096
+Dfsc         DFS Ad Alanı İstemci S DFS Ad Alanı İstemci S File System   System     Running    OK
+TRUE        FALSE        94.208            24.576      0                                 C:\WINDOWS\system
+32\Drivers\dfsc.sys             4.096
+disk         Disk Sürücüsü          Disk Sürücüsü          Kernel        Boot       Running    OK
+TRUE        FALSE        36.864            20.480      0                                 C:\WINDOWS\system
+32\drivers\disk.sys             4.096
+dmvsc        dmvsc                  dmvsc                  Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             24.576      0                                 C:\WINDOWS\system
+32\drivers\dmvsc.sys            4.096
+dptf_acpi    dptf_acpi              dptf_acpi              Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             40.960      0          12.04.2022 02:23:37    C:\WINDOWS\system
+32\DriverStore\FileRepository\d 4.096
+dptf_cpu     dptf_cpu               dptf_cpu               Kernel        Manual     Running    OK         
+TRUE        FALSE        8.192             32.768      0          12.04.2022 02:23:40    C:\WINDOWS\system
+32\DriverStore\FileRepository\d 4.096
+drmkaud      Microsoft Güvenilir Se Microsoft Güvenilir Se Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 4.096       0                                 C:\WINDOWS\system
+32\drivers\drmkaud.sys          4.096
+DXGKrnl      LDDM Graphics Subsyste LDDM Graphics Subsyste Kernel        System     Running    OK
+TRUE        FALSE        2.277.376         454.656     0                                 C:\WINDOWS\system
+32\drivers\dxgkrnl.sys          8.192
+ebdrv        QLogic 10 Gigabit Ethe QLogic 10 Gigabit Ethe Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             1.159.168   0          25.05.2016 10:01:05    C:\WINDOWS\system
+32\drivers\evbda.sys            4.096
+EhStorClass  Enhanced Storage Filte Enhanced Storage Filte Kernel        Boot       Running    OK
+TRUE        FALSE        20.480            49.152      0                                 C:\WINDOWS\system
+32\drivers\EhStorClass.sys      4.096
+EhStorTcgDrv IEEE 1667 ve TCG proto IEEE 1667 ve TCG proto Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             73.728      0                                 C:\WINDOWS\system
+32\drivers\EhStorTcgDrv.sys     4.096
+ErrDev       Microsoft Hardware Err Microsoft Hardware Err Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             8.192       0                                 C:\WINDOWS\system
+32\drivers\errdev.sys           4.096
+esif_lf      esif_lf                esif_lf                Kernel        Manual     Running    OK
+TRUE        FALSE        49.152            323.584     0          12.04.2022 02:23:54    C:\WINDOWS\system
+32\DriverStore\FileRepository\d 4.096
+ETDSMBus     ETDSMBus               ETDSMBus               Kernel        Manual     Running    OK
+TRUE        FALSE        0                 16.384      0          30.06.2022 08:50:46    C:\WINDOWS\system
+32\drivers\ETDSMBus.sys         4.096
+ew_usbccgpfi HwHandSet_CompositeFil HwHandSet_CompositeFil Kernel        Manual     Stopped    OK
+FALSE       FALSE        1.536             11.648      0          25.11.2015 13:05:07    C:\WINDOWS\system
+32\drivers\ew_usbccgpfilter.sys 1.920
+exfat        exFAT File System Driv exFAT File System Driv File System   Manual     Stopped    OK
+FALSE       FALSE        229.376           90.112      0                                 C:\WINDOWS\system
+32\drivers\exfat.sys            4.096
+FairplayKD   FairplayKD             FairplayKD             Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             77.824      0          27.07.2024 16:18:14    \??\C:\ProgramDat
+a\MTA San Andreas All\Common\te 4.096
+fastfat      FAT12/16/32 File Syste FAT12/16/32 File Syste File System   Manual     Running    OK
+TRUE        FALSE        262.144           65.536      0                                 C:\WINDOWS\system
+32\drivers\fastfat.sys          4.096
+fdc          Disket Denetleyici Sür Disket Denetleyici Sür Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             20.480      0                                 C:\WINDOWS\system
+32\drivers\fdc.sys              4.096
+FileCrypt    FileCrypt              FileCrypt              File System   System     Running    OK
+TRUE        FALSE        28.672            12.288      0                                 C:\WINDOWS\system
+32\drivers\filecrypt.sys        4.096
+FileInfo     File Information FS Mi File Information FS Mi File System   Boot       Running    OK
+TRUE        FALSE        45.056            12.288      0                                 C:\WINDOWS\system
+32\drivers\fileinfo.sys         4.096
+Filetrace    Filetrace              Filetrace              File System   Manual     Stopped    OK
+FALSE       FALSE        12.288            12.288      0                                 C:\WINDOWS\system
+32\drivers\filetrace.sys        4.096
+flpydisk     Disket Sürücüsü        Disket Sürücüsü        Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            8.192       0                                 C:\WINDOWS\system
+32\drivers\flpydisk.sys         4.096
+FltMgr       FltMgr                 FltMgr                 File System   Boot       Running    OK
+TRUE        FALSE        184.320           106.496     0                                 C:\WINDOWS\system
+32\drivers\fltmgr.sys           8.192
+FsDepends    File System Dependency File System Dependency File System   Manual     Stopped    OK
+FALSE       FALSE        40.960            8.192       0                                 C:\WINDOWS\system
+32\drivers\FsDepends.sys        4.096
+fvevol       BitLocker Sürücü Şifre BitLocker Sürücü Şifre Kernel        Boot       Running    OK
+TRUE        FALSE        512.000           139.264     0                                 C:\WINDOWS\system
+32\DRIVERS\fvevol.sys           12.288
+gameflt      gameflt                gameflt                File System   Manual     Running    OK
+TRUE        FALSE        57.344            28.672      0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\g 4.096
+gencounter   Microsoft Hyper-V Oluş Microsoft Hyper-V Oluş Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\vmgencounter.sys     4.096
+genericusbfn Genel USB İşlev Sınıfı Genel USB İşlev Sınıfı Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\g 4.096
+googlehaxm   GHAXM                  GHAXM                  Kernel        System     Running    OK
+TRUE        FALSE        8.192             151.552     0          7.05.2025 14:29:27     \??\C:\WINDOWS\sy
+stem32\drivers\GoogleHaxm.sys   4.096
+GPIOClx0101  Microsoft GPIO Class E Microsoft GPIO Class E Kernel        Manual     Running    OK
+TRUE        FALSE        49.152            98.304      0                                 C:\WINDOWS\system
+32\Drivers\msgpioclx.sys        4.096
+GpuEnergyDrv GPU Energy Driver      GPU Energy Driver      Kernel        System     Running    OK
+TRUE        FALSE        0                 4.096       0                                 C:\WINDOWS\system
+32\drivers\gpuenergydrv.sys     4.096
+hcmon        VMware hcmon           VMware hcmon           Kernel        Auto       Running    OK
+TRUE        FALSE        4.096             45.056      0          5.07.2023 12:53:56     C:\WINDOWS\system
+32\DRIVERS\hcmon.sys            8.192
+HdAudAddServ High Definition Audio  High Definition Audio  Kernel        Manual     Stopped    OK
+FALSE       FALSE        315.392           32.768      0                                 C:\WINDOWS\system
+32\drivers\HdAudio.sys          4.096
+HDAudBus     High Definition Audio  High Definition Audio  Kernel        Manual     Running    OK
+TRUE        FALSE        36.864            69.632      0                                 C:\WINDOWS\system
+32\drivers\HDAudBus.sys         4.096
+HidBatt      İAC UPS Pil Sürücüsü   İAC UPS Pil Sürücüsü   Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 20.480      0                                 C:\WINDOWS\system
+32\drivers\HidBatt.sys          4.096
+HidBth       Microsoft Bluetooth İA Microsoft Bluetooth İA Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            49.152      0                                 C:\WINDOWS\system
+32\drivers\hidbth.sys           4.096
+HidEventFilt Intel(R) HID Event Fil Intel(R) HID Event Fil Kernel        Manual     Running    OK
+TRUE        FALSE        0                 53.248      0          25.04.2024 13:58:00    C:\WINDOWS\system
+32\DriverStore\FileRepository\h 4.096
+hidi2c       Microsoft I2C HID Mini Microsoft I2C HID Mini Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             36.864      0                                 C:\WINDOWS\system
+32\drivers\hidi2c.sys           4.096
+hidinterrupt İAC Düğmeleri için Ort İAC Düğmeleri için Ort Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            20.480      0                                 C:\WINDOWS\system
+32\drivers\hidinterrupt.sys     4.096
+HidIr        Microsoft Kızılötesi İ Microsoft Kızılötesi İ Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            24.576      0                                 C:\WINDOWS\system
+32\drivers\hidir.sys            4.096
+hidspi       Microsoft SPI İAC Mini Microsoft SPI İAC Mini Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             77.824      0                                 C:\WINDOWS\system
+32\drivers\hidspi.sys           4.096
+HidSpiCx     HidSpi KMDF Class Exte HidSpi KMDF Class Exte Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             69.632      0                                 C:\WINDOWS\system
+32\drivers\HidSpiCx.sys         4.096
+HidUsb       Microsoft HID Sınıf Sü Microsoft HID Sınıf Sü Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             24.576      0                                 C:\WINDOWS\system
+32\drivers\hidusb.sys           4.096
+HpSAMD       HpSAMD                 HpSAMD                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 45.056      0          27.03.2013 00:36:54    C:\WINDOWS\system
+32\drivers\HpSAMD.sys           4.096
+HTTP         HTTP Hizmeti           HTTP Hizmeti           Kernel        Manual     Running    OK
+TRUE        FALSE        851.968           372.736     0                                 C:\WINDOWS\system
+32\drivers\HTTP.sys             12.288
+hvcrash      hvcrash                hvcrash                Kernel        Disabled   Stopped    OK
+FALSE       FALSE        8.192             12.288      0                                 C:\WINDOWS\system
+32\drivers\hvcrash.sys          4.096
+hvservice    Hypervisor/Virtual Mac Hypervisor/Virtual Mac Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            8.192       0                                 C:\WINDOWS\system
+32\drivers\hvservice.sys        4.096
+HwNClx0101   Microsoft Hardware Not Microsoft Hardware Not Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            8.192       0                                 C:\WINDOWS\system
+32\Drivers\mshwnclx.sys         4.096
+hwpolicy     Hardware Policy Driver Hardware Policy Driver Kernel        Boot       Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\hwpolicy.sys         4.096
+hyperkbd     hyperkbd               hyperkbd               Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             8.192       0                                 C:\WINDOWS\system
+32\drivers\hyperkbd.sys         4.096
+HyperVideo   HyperVideo             HyperVideo             Kernel        Manual     Stopped    OK
+FALSE       FALSE        20.480            8.192       0                                 C:\WINDOWS\system
+32\drivers\HyperVideo.sys       4.096
+i8042prt     i8042 Klavye ve PS/2 F i8042 Klavye ve PS/2 F Kernel        Manual     Running    OK
+TRUE        FALSE        36.864            49.152      0                                 C:\WINDOWS\system
+32\drivers\i8042prt.sys         4.096
+iagpio       Intel Seri GÇ GPIO Den Intel Seri GÇ GPIO Den Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             24.576      0          23.07.2018 12:04:46    C:\WINDOWS\system
+32\drivers\iagpio.sys           4.096
+iai2c        Intel(R) Seri GÇ I2C A Intel(R) Seri GÇ I2C A Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             77.824      0          23.07.2018 12:04:39    C:\WINDOWS\system
+32\drivers\iai2c.sys            4.096
+iaLPSS2i_GPI Intel(R) Seri GÇ GPIO  Intel(R) Seri GÇ GPIO  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             45.056      0          19.04.2018 10:53:24    C:\WINDOWS\system
+32\drivers\iaLPSS2i_GPIO2.sys   4.096
+iaLPSS2i_GPI Intel(R) Seri GÇ GPIO  Intel(R) Seri GÇ GPIO  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             57.344      0          17.04.2018 12:25:15    C:\WINDOWS\system
+32\drivers\iaLPSS2i_GPIO2_BXT_P 4.096
+iaLPSS2i_GPI Intel(R) Seri GÇ GPIO  Intel(R) Seri GÇ GPIO  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             73.728      0          17.04.2018 10:07:03    C:\WINDOWS\system
+32\drivers\iaLPSS2i_GPIO2_CNL.s 4.096
+iaLPSS2i_GPI Intel(R) Seri GÇ GPIO  Intel(R) Seri GÇ GPIO  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             57.344      0          16.05.2018 08:46:36    C:\WINDOWS\system
+32\drivers\iaLPSS2i_GPIO2_GLK.s 4.096
+iaLPSS2i_I2C Intel(R) Seri GÇ I2C S Intel(R) Seri GÇ I2C S Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             118.784     0          19.04.2018 10:52:58    C:\WINDOWS\system
+32\drivers\iaLPSS2i_I2C.sys     4.096
+iaLPSS2i_I2C Intel(R) Seri GÇ I2C S Intel(R) Seri GÇ I2C S Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             122.880     0          17.04.2018 12:24:40    C:\WINDOWS\system
+32\drivers\iaLPSS2i_I2C_BXT_P.s 4.096
+iaLPSS2i_I2C Intel(R) Seri GÇ I2C S Intel(R) Seri GÇ I2C S Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             126.976     0          15.07.2019 08:12:12    C:\WINDOWS\system
+32\drivers\iaLPSS2i_I2C_CNL.sys 4.096
+iaLPSS2i_I2C Intel(R) Seri GÇ I2C S Intel(R) Seri GÇ I2C S Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             126.976     0          16.05.2018 08:46:02    C:\WINDOWS\system
+32\drivers\iaLPSS2i_I2C_GLK.sys 4.096
+iaLPSS2_GPIO Intel(R) Serial IO GPI Intel(R) Serial IO GPI Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             86.016      0          20.12.2021 10:10:25    C:\WINDOWS\system
+32\DriverStore\FileRepository\i 4.096
+iaLPSS2_I2C  Intel(R) Serial IO I2C Intel(R) Serial IO I2C Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             131.072     0          20.12.2021 10:10:13    C:\WINDOWS\system
+32\DriverStore\FileRepository\i 4.096
+iaLPSS2_SPI  Intel(R) Serial IO SPI Intel(R) Serial IO SPI Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             90.112      0          20.12.2021 10:10:12    C:\WINDOWS\system
+32\DriverStore\FileRepository\i 4.096
+iaLPSS2_UART Intel(R) Serial IO UAR Intel(R) Serial IO UAR Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             348.160     0          20.12.2021 10:10:45    C:\WINDOWS\system
+32\DriverStore\FileRepository\i 4.096
+iaLPSS2_UART Intel(R) Serial IO UAR Intel(R) Serial IO UAR Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             348.160     0          5.03.2021 10:52:20     C:\WINDOWS\system
+32\DriverStore\FileRepository\i 4.096
+iaLPSSi_GPIO Intel(R) Seri GÇ GPIO  Intel(R) Seri GÇ GPIO  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0          2.02.2015 12:00:09     C:\WINDOWS\system
+32\drivers\iaLPSSi_GPIO.sys     4.096
+iaLPSSi_I2C  Intel(R) Seri GÇ I2C D Intel(R) Seri GÇ I2C D Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             90.112      0          24.02.2015 18:52:07    C:\WINDOWS\system
+32\drivers\iaLPSSi_I2C.sys      4.096
+iaStorAC     Intel(R) Chipset SATA/ Intel(R) Chipset SATA/ Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             1.159.168   0          30.09.2021 16:50:11    C:\WINDOWS\system
+32\drivers\iaStorAC.sys         4.096
+iaStorAVC    Intel Chipset SATA RAI Intel Chipset SATA RAI Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             786.432     0          5.09.2019 15:07:32     C:\WINDOWS\system
+32\drivers\iaStorAVC.sys        4.096
+iaStorV      Intel RAID Denetleyici Intel RAID Denetleyici Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 364.544     0          11.04.2011 21:48:16    C:\WINDOWS\system
+32\drivers\iaStorV.sys          8.192
+ibbus        Mellanox InfiniBand Ve Mellanox InfiniBand Ve Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             499.712     0          19.06.2019 16:20:09    C:\WINDOWS\system
+32\drivers\ibbus.sys            8.192
+igfx         igfx                   igfx                   Kernel        Manual     Running    OK
+TRUE        FALSE        16.384            10.272.768  0          3.05.2024 12:08:27     C:\WINDOWS\system
+32\DriverStore\FileRepository\i 8.192
+IndirectKmd  Dolaylı Ekranlar Çekir Dolaylı Ekranlar Çekir Kernel        Manual     Stopped    OK
+FALSE       FALSE        28.672            8.192       0                                 C:\WINDOWS\system
+32\drivers\IndirectKmd.sys      4.096
+IntcAzAudAdd Service for Realtek HD Service for Realtek HD Kernel        Manual     Running    OK
+TRUE        FALSE        4.239.360         1.482.752   0          16.09.2021 13:16:57    C:\WINDOWS\system
+32\drivers\RTKVHD64.sys         8.192
+IntcDAud     Intel(R) Ekran İçin Se Intel(R) Ekran İçin Se Kernel        Manual     Running    OK
+TRUE        FALSE        253.952           36.864      0          29.04.2024 16:38:40    C:\WINDOWS\system
+32\DriverStore\FileRepository\i 4.096
+intelide     intelide               intelide               Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 8.192       0                                 C:\WINDOWS\system
+32\drivers\intelide.sys         4.096
+intelpep     Intel(R) Güç Altyapısı Intel(R) Güç Altyapısı Kernel        Boot       Running    OK
+TRUE        FALSE        32.768            53.248      0                                 C:\WINDOWS\system
+32\drivers\intelpep.sys         4.096
+intelpmax    Intel(R) Dinamik Cihaz Intel(R) Dinamik Cihaz Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            12.288      0                                 C:\WINDOWS\system
+32\drivers\intelpmax.sys        4.096
+intelppm     Intel İşlemci Sürücüsü Intel İşlemci Sürücüsü Kernel        Manual     Running    OK
+TRUE        FALSE        110.592           69.632      0                                 C:\WINDOWS\system
+32\drivers\intelppm.sys         8.192
+iorate       Disk G/Ç Hız Filtre Sü Disk G/Ç Hız Filtre Sü Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             28.672      0                                 C:\WINDOWS\system
+32\drivers\iorate.sys           4.096
+IpFilterDriv IP Traffic Filter Driv IP Traffic Filter Driv Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             61.440      0                                 C:\WINDOWS\system
+32\DRIVERS\ipfltdrv.sys         4.096
+IPMIDRV      IPMIDRV                IPMIDRV                Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            49.152      0                                 C:\WINDOWS\system
+32\drivers\IPMIDrv.sys          4.096
+IPNAT        IP Network Address Tra IP Network Address Tra Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            184.320     0                                 C:\WINDOWS\system
+32\drivers\ipnat.sys            4.096
+IPT          IPT                    IPT                    Kernel        Manual     Stopped    OK
+FALSE       FALSE        28.672            8.192       0                                 C:\WINDOWS\system
+32\drivers\ipt.sys              4.096
+isapnp       isapnp                 isapnp                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\isapnp.sys           4.096
+iScsiPrt     iScsiPort Sürücüsü     iScsiPort Sürücüsü     Kernel        Manual     Stopped    OK
+FALSE       FALSE        53.248            196.608     0                                 C:\WINDOWS\system
+32\drivers\msiscsi.sys          4.096
+ItSas35i     ItSas35i               ItSas35i               Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 147.456     0          20.06.2019 10:35:34    C:\WINDOWS\system
+32\drivers\ItSas35i.sys         4.096
+kbdclass     Klavye Sınıf Sürücüsü  Klavye Sınıf Sürücüsü  Kernel        Manual     Running    OK
+TRUE        FALSE        12.288            28.672      0                                 C:\WINDOWS\system
+32\drivers\kbdclass.sys         4.096
+kbdhid       Klavye İAC Sürücüsü    Klavye İAC Sürücüsü    Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             24.576      0                                 C:\WINDOWS\system
+32\drivers\kbdhid.sys           4.096
+kbldfltr     kbldfltr               kbldfltr               Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             8.192       0                                 C:\WINDOWS\system
+32\drivers\kbldfltr.sys         4.096
+kdnic        Microsoft Çekirdek Hat Microsoft Çekirdek Hat Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             8.192       0                                 C:\WINDOWS\system
+32\drivers\kdnic.sys            4.096
+KSecDD       KSecDD                 KSecDD                 Kernel        Boot       Running    OK
+TRUE        FALSE        40.960            61.440      0                                 C:\WINDOWS\system
+32\Drivers\ksecdd.sys           4.096
+KSecPkg      KSecPkg                KSecPkg                Kernel        Boot       Running    OK
+TRUE        FALSE        73.728            53.248      0                                 C:\WINDOWS\system
+32\Drivers\ksecpkg.sys          4.096
+ksthunk      Kernel Streaming Thunk Kernel Streaming Thunk Kernel        Manual     Running    OK
+TRUE        FALSE        12.288            16.384      0                                 C:\WINDOWS\system
+32\drivers\ksthunk.sys          4.096
+lltdio       Bağlantı Katmanı Topol Bağlantı Katmanı Topol Kernel        Auto       Running    OK
+TRUE        FALSE        8.192             40.960      0                                 C:\WINDOWS\system
+32\drivers\lltdio.sys           8.192
+LSI_SAS      LSI_SAS                LSI_SAS                Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 90.112      0          25.03.2015 22:36:48    C:\WINDOWS\system
+32\drivers\lsi_sas.sys          4.096
+LSI_SAS2i    LSI_SAS2i              LSI_SAS2i              Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 98.304      0          2.08.2017 16:29:59     C:\WINDOWS\system
+32\drivers\lsi_sas2i.sys        4.096
+LSI_SAS3i    LSI_SAS3i              LSI_SAS3i              Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 110.592     0          4.04.2019 09:54:35     C:\WINDOWS\system
+32\drivers\lsi_sas3i.sys        4.096
+LSI_SSS      LSI_SSS                LSI_SSS                Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 65.536      0          16.03.2013 02:39:38    C:\WINDOWS\system
+32\drivers\lsi_sss.sys          4.096
+luafv        UAC Dosyası Sanallaştı UAC Dosyası Sanallaştı File System   Auto       Running    OK
+TRUE        FALSE        69.632            8.192       0                                 C:\WINDOWS\system
+32\drivers\luafv.sys            12.288
+mausbhost    MA-USB Ana Bilgisayar  MA-USB Ana Bilgisayar  Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             319.488     0                                 C:\WINDOWS\system
+32\drivers\mausbhost.sys        4.096
+mausbip      MA-USB IP Filtre Sürüc MA-USB IP Filtre Sürüc Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             36.864      0                                 C:\WINDOWS\system
+32\drivers\mausbip.sys          4.096
+MbbCx        MBB Network Adapter Cl MBB Network Adapter Cl Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             245.760     0                                 C:\WINDOWS\system
+32\drivers\MbbCx.sys            4.096
+megasas      megasas                megasas                Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 40.960      0          5.03.2015 05:36:29     C:\WINDOWS\system
+32\drivers\megasas.sys          4.096
+megasas2i    megasas2i              megasas2i              Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 61.440      0          4.04.2019 16:28:53     C:\WINDOWS\system
+32\drivers\MegaSas2i.sys        4.096
+megasas35i   megasas35i             megasas35i             Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 81.920      0          20.06.2019 13:01:12    C:\WINDOWS\system
+32\drivers\megasas35i.sys       4.096
+megasr       megasr                 megasr                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 434.176     0          4.06.2013 01:02:39     C:\WINDOWS\system
+32\drivers\megasr.sys           4.096
+MEIx64       Intel(R) Management En Intel(R) Management En Kernel        Manual     Running    OK
+TRUE        FALSE        24.576            245.760     0          15.08.2024 09:36:31    C:\WINDOWS\system
+32\DriverStore\FileRepository\h 4.096
+Microsoft_Bl Microsoft Bluetooth Av Microsoft Bluetooth Av Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            28.672      0                                 C:\WINDOWS\system
+32\drivers\Microsoft.Bluetooth. 4.096
+mlx4_bus     Mellanox ConnectX Veri Mellanox ConnectX Veri Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             880.640     0          19.06.2019 16:21:08    C:\WINDOWS\system
+32\drivers\mlx4_bus.sys         8.192
+MMCSS        Multimedia Class Sched Multimedia Class Sched Kernel        Auto       Running    OK
+TRUE        FALSE        12.288            16.384      0                                 C:\WINDOWS\system
+32\drivers\mmcss.sys            8.192
+Modem        Modem                  Modem                  Kernel        Manual     Stopped    OK
+FALSE       FALSE        32.768            4.096       0                                 C:\WINDOWS\system
+32\drivers\modem.sys            4.096
+monitor      Microsoft Monitör Sını Microsoft Monitör Sını Kernel        Manual     Running    OK
+TRUE        FALSE        40.960            20.480      0                                 C:\WINDOWS\system
+32\drivers\monitor.sys          4.096
+mouclass     Fare Sınıf Sürücüsü    Fare Sınıf Sürücüsü    Kernel        Manual     Running    OK
+TRUE        FALSE        12.288            24.576      0                                 C:\WINDOWS\system
+32\drivers\mouclass.sys         4.096
+mouhid       Fare İAC Sürücüsü      Fare İAC Sürücüsü      Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             20.480      0                                 C:\WINDOWS\system
+32\drivers\mouhid.sys           4.096
+mountmgr     Bağlama Noktası Yöneti Bağlama Noktası Yöneti Kernel        Boot       Running    OK
+TRUE        FALSE        69.632            12.288      0                                 C:\WINDOWS\system
+32\drivers\mountmgr.sys         4.096
+mpsdrv       Windows Defender Firew Windows Defender Firew Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             57.344      0                                 C:\WINDOWS\system
+32\drivers\mpsdrv.sys           4.096
+MRxDAV       WebDav İstemci Yeniden WebDav İstemci Yeniden File System   Manual     Stopped    OK
+FALSE       FALSE        114.688           28.672      0                                 C:\WINDOWS\system
+32\drivers\mrxdav.sys           4.096
+mrxsmb       SMB MiniRedirector Sar SMB MiniRedirector Sar File System   Manual     Running    OK
+TRUE        FALSE        65.536            294.912     0                                 C:\WINDOWS\system
+32\DRIVERS\mrxsmb.sys           4.096
+mrxsmb20     SMB 2.0 MiniRedirector SMB 2.0 MiniRedirector File System   Manual     Running    OK
+TRUE        FALSE        20.480            188.416     0                                 C:\WINDOWS\system
+32\DRIVERS\mrxsmb20.sys         4.096
+MsBridge     Microsoft MAC Köprüsü  Microsoft MAC Köprüsü  Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             90.112      0                                 C:\WINDOWS\system
+32\drivers\bridge.sys           4.096
+Msfs         Msfs                   Msfs                   File System   System     Running    OK
+TRUE        FALSE        28.672            8.192       0                                 C:\WINDOWS\system
+32\drivers\Msfs.sys             4.096
+msgpiowin32  Düğmeler, DockMode ve  Düğmeler, DockMode ve  Kernel        Manual     Running    OK
+TRUE        FALSE        16.384            16.384      0                                 C:\WINDOWS\system
+32\drivers\msgpiowin32.sys      4.096
+mshidkmdf    Pass-through HID to KM Pass-through HID to KM Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\mshidkmdf.sys        4.096
+mshidumdf    HID - UMDF Doğrudan Ge HID - UMDF Doğrudan Ge Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\mshidumdf.sys        4.096
+msisadrv     msisadrv               msisadrv               Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\msisadrv.sys         4.096
+MSKSSRV      Microsoft Akış Hizmet  Microsoft Akış Hizmet  Kernel        Manual     Stopped    OK
+FALSE       FALSE        20.480            12.288      0                                 C:\WINDOWS\system
+32\drivers\MSKSSRV.sys          4.096
+MsLldp       Microsoft Bağlantı Kat Microsoft Bağlantı Kat Kernel        Auto       Running    OK
+TRUE        FALSE        16.384            24.576      0                                 C:\WINDOWS\system
+32\drivers\mslldp.sys           4.096
+MSPCLOCK     Microsoft Akış Saat Pr Microsoft Akış Saat Pr Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\MSPCLOCK.sys         4.096
+MSPQM        Microsoft Akış Kalite  Microsoft Akış Kalite  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\MSPQM.sys            4.096
+MsQuic       MsQuic                 MsQuic                 Kernel        Manual     Running    OK
+TRUE        FALSE        16.384            192.512     0                                 C:\WINDOWS\system
+32\drivers\msquic.sys           4.096
+MsRPC        MsRPC                  MsRPC                  Kernel        Manual     Stopped    OK
+FALSE       FALSE        270.336           8.192       0                                 C:\WINDOWS\system
+32\drivers\MsRPC.sys            4.096
+MsSecCore    Microsoft Güvenlik Çek Microsoft Güvenlik Çek Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             8.192       0                                 C:\WINDOWS\system
+32\drivers\msseccore.sys        4.096
+MsSecFlt     Microsoft Security Eve Microsoft Security Eve Kernel        Manual     Stopped    OK
+FALSE       FALSE        139.264           69.632      0                                 C:\WINDOWS\system
+32\drivers\mssecflt.sys         12.288
+MsSecWfp     Microsoft Security WFP Microsoft Security WFP Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             8.192       0                                 C:\WINDOWS\system
+32\drivers\mssecwfp.sys         4.096
+mssmbios     Microsoft Sistem Yönet Microsoft Sistem Yönet Kernel        System     Running    OK
+TRUE        FALSE        8.192             16.384      0                                 C:\WINDOWS\system
+32\drivers\mssmbios.sys         4.096
+MSTEE        Microsoft Akış T/Alıcı Microsoft Akış T/Alıcı Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\MSTEE.sys            4.096
+MTConfig     Microsoft Input Config Microsoft Input Config Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             8.192       0                                 C:\WINDOWS\system
+32\drivers\MTConfig.sys         4.096      
+Mup          Mup                    Mup                    File System   Boot       Running    OK
+TRUE        FALSE        65.536            16.384      0                                 C:\WINDOWS\system
+32\Drivers\mup.sys              4.096
+mvumis       mvumis                 mvumis                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 20.480      0          23.05.2014 23:39:04    C:\WINDOWS\system
+32\drivers\mvumis.sys           4.096
+NativeWifiP  Yerel Filtresi         Yerel Filtresi         Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             589.824     0                                 C:\WINDOWS\system
+32\DRIVERS\nwifi.sys            4.096
+ndfltr       NetworkDirect Hizmeti  NetworkDirect Hizmeti  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             118.784     0          19.06.2019 16:18:42    C:\WINDOWS\system
+32\drivers\ndfltr.sys           4.096
+NDIS         NDIS Sistemi Sürücüsü  NDIS Sistemi Sürücüsü  Kernel        Boot       Running    OK
+TRUE        FALSE        286.720           815.104     0                                 C:\WINDOWS\system
+32\drivers\ndis.sys             20.480
+NdisCap      Microsoft NDIS Yakalam Microsoft NDIS Yakalam Kernel        System     Running    OK
+TRUE        FALSE        0                 28.672      0                                 C:\WINDOWS\system
+32\drivers\ndiscap.sys          4.096
+NdisImPlatfo Microsoft Ağ Bağdaştır Microsoft Ağ Bağdaştır Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             90.112      0                                 C:\WINDOWS\system
+32\drivers\NdisImPlatform.sys   4.096
+NdisTapi     Remote Access NDIS TAP Remote Access NDIS TAP Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             12.288      0                                 C:\WINDOWS\system
+32\DRIVERS\ndistapi.sys         4.096
+Ndisuio      NDIS Usermode I/O Prot NDIS Usermode I/O Prot Kernel        Manual     Running    OK
+TRUE        FALSE        16.384            36.864      0                                 C:\WINDOWS\system
+32\drivers\ndisuio.sys          4.096
+NdisVirtualB Microsoft Sanal Ağ Bağ Microsoft Sanal Ağ Bağ Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             8.192       0                                 C:\WINDOWS\system
+32\drivers\NdisVirtualBus.sys   4.096
+NdisWan      Remote Access NDIS WAN Remote Access NDIS WAN Kernel        Manual     Running    OK
+TRUE        FALSE        73.728            90.112      0                                 C:\WINDOWS\system
+32\drivers\ndiswan.sys          8.192
+ndiswanlegac Remote Access LEGACY N Remote Access LEGACY N Kernel        Manual     Stopped    OK
+FALSE       FALSE        73.728            90.112      0                                 C:\WINDOWS\system
+32\DRIVERS\ndiswan.sys          8.192
+NDKPing      NDKPing Driver         NDKPing Driver         Kernel        Manual     Stopped    OK
+FALSE       FALSE        20.480            32.768      0                                 C:\WINDOWS\system
+32\drivers\NDKPing.sys          4.096
+ndproxy      NDIS Proxy Driver      NDIS Proxy Driver      Kernel        Manual     Running    OK
+TRUE        FALSE        45.056            32.768      0                                 C:\WINDOWS\system
+32\DRIVERS\NDProxy.sys          4.096
+Ndu          Windows Network Data U Windows Network Data U Kernel        Auto       Running    OK
+TRUE        FALSE        4.096             65.536      0                                 C:\WINDOWS\system
+32\drivers\Ndu.sys              4.096
+NetAdapterCx Network Adapter Wdf Cl Network Adapter Wdf Cl Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            147.456     0                                 C:\WINDOWS\system
+32\drivers\NetAdapterCx.sys     4.096
+NetBIOS      NetBIOS Interface      NetBIOS Interface      File System   System     Running    OK
+TRUE        FALSE        20.480            24.576      0                                 C:\WINDOWS\system
+32\drivers\netbios.sys          4.096
+NetBT        NetBT                  NetBT                  Kernel        System     Running    OK
+TRUE        FALSE        90.112            200.704     0                                 C:\WINDOWS\system
+32\DRIVERS\netbt.sys            4.096
+netvsc       netvsc                 netvsc                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             212.992     0                                 C:\WINDOWS\system
+32\drivers\netvsc.sys           4.096
+Npfs         Npfs                   Npfs                   File System   System     Running    OK
+TRUE        FALSE        57.344            8.192       0                                 C:\WINDOWS\system
+32\drivers\Npfs.sys             4.096
+npsvctrig    Named pipe service tri Named pipe service tri Kernel        System     Running    OK
+TRUE        FALSE        12.288            4.096       0                                 C:\WINDOWS\system
+32\drivers\npsvctrig.sys        4.096
+nsiproxy     NSI Proxy Service Driv NSI Proxy Service Driv Kernel        System     Running    OK
+TRUE        FALSE        8.192             24.576      0                                 C:\WINDOWS\system
+32\drivers\nsiproxy.sys         4.096
+Ntfs         Ntfs                   Ntfs                   File System   Manual     Running    OK
+TRUE        FALSE        1.871.872         417.792     0                                 C:\WINDOWS\system
+32\drivers\Ntfs.sys             16.384
+Null         Null                   Null                   Kernel        System     Running    OK
+TRUE        FALSE        0                 4.096       0                                 C:\WINDOWS\system
+32\drivers\Null.sys             4.096
+nvdimm       Microsoft NVDIMM cihaz Microsoft NVDIMM cihaz Kernel        Manual     Stopped    OK
+FALSE       FALSE        28.672            49.152      0                                 C:\WINDOWS\system
+32\drivers\nvdimm.sys           4.096
+nvraid       nvraid                 nvraid                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             90.112      0          21.04.2014 21:28:42    C:\WINDOWS\system
+32\drivers\nvraid.sys           8.192
+nvstor       nvstor                 nvstor                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 118.784     0          21.04.2014 21:34:03    C:\WINDOWS\system
+32\drivers\nvstor.sys           4.096
+Parport      Paralel bağlantı nokta Paralel bağlantı nokta Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             81.920      0                                 C:\WINDOWS\system
+32\drivers\parport.sys          4.096
+partmgr      Bölüm sürücüsü         Bölüm sürücüsü         Kernel        Boot       Running    OK
+TRUE        FALSE        53.248            69.632      0                                 C:\WINDOWS\system
+32\drivers\partmgr.sys          4.096
+pci          PCI Veri Yolu Sürücüsü PCI Veri Yolu Sürücüsü Kernel        Boot       Running    OK
+TRUE        FALSE        200.704           159.744     0                                 C:\WINDOWS\system
+32\drivers\pci.sys              8.192
+pciide       pciide                 pciide                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 4.096       0                                 C:\WINDOWS\system
+32\drivers\pciide.sys           4.096
+pcmcia       pcmcia                 pcmcia                 Kernel        Manual     Stopped    OK
+FALSE       FALSE        45.056            45.056      0                                 C:\WINDOWS\system
+32\drivers\pcmcia.sys           8.192
+pcw          Performance Counters f Performance Counters f Kernel        Boot       Running    OK
+TRUE        FALSE        32.768            8.192       0                                 C:\WINDOWS\system
+32\drivers\pcw.sys              4.096
+pdc          pdc                    pdc                    Kernel        Boot       Running    OK
+TRUE        FALSE        86.016            24.576      0                                 C:\WINDOWS\system
+32\drivers\pdc.sys              8.192
+PEAUTH       PEAUTH                 PEAUTH                 Kernel        Auto       Running    OK
+TRUE        FALSE        573.440           167.936     0                                 C:\WINDOWS\system
+32\drivers\peauth.sys           4.096
+percsas2i    percsas2i              percsas2i              Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 40.960      0          15.03.2016 03:50:11    C:\WINDOWS\system
+32\drivers\percsas2i.sys        4.096
+percsas3i    percsas3i              percsas3i              Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 49.152      0          2.06.2018 00:47:02     C:\WINDOWS\system
+32\drivers\percsas3i.sys        4.096
+PktMon       Packet Monitor Driver  Packet Monitor Driver  Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             45.056      0                                 C:\WINDOWS\system
+32\drivers\PktMon.sys           4.096
+pmem         Microsoft kalıcı belle Microsoft kalıcı belle Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            45.056      0                                 C:\WINDOWS\system
+32\drivers\pmem.sys             4.096
+PNPMEM       Microsoft Bellek Modül Microsoft Bellek Modül Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\pnpmem.sys           4.096
+portcfg      portcfg                portcfg                Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            8.192       0                                 C:\WINDOWS\system
+32\drivers\portcfg.sys          4.096
+PptpMiniport WAN Miniport (PPTP)    WAN Miniport (PPTP)    Kernel        Manual     Running    OK
+TRUE        FALSE        61.440            28.672      0                                 C:\WINDOWS\system
+32\drivers\raspptp.sys          4.096
+Processor    İşlemci Sürücüsü       İşlemci Sürücüsü       Kernel        Manual     Stopped    OK
+FALSE       FALSE        106.496           57.344      0                                 C:\WINDOWS\system
+32\drivers\processr.sys         8.192
+Psched       QoS Paket Zamanlayıcıs QoS Paket Zamanlayıcıs Kernel        System     Running    OK
+TRUE        FALSE        20.480            65.536      0                                 C:\WINDOWS\system
+32\drivers\pacer.sys            4.096
+QWAVEdrv     QWAVE sürücüsü         QWAVE sürücüsü         Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             32.768      0                                 C:\WINDOWS\system
+32\drivers\qwavedrv.sys         4.096
+Ramdisk      Windows RAM Disk Drive Windows RAM Disk Drive Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            8.192       0                                 C:\WINDOWS\system
+32\DRIVERS\ramdisk.sys          4.096
+RasAcd       Remote Access Auto Con Remote Access Auto Con Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0                                 C:\WINDOWS\system
+32\DRIVERS\rasacd.sys           4.096
+RasAgileVpn  WAN Miniport (IKEv2)   WAN Miniport (IKEv2)   Kernel        Manual     Running    OK
+TRUE        FALSE        32.768            45.056      0                                 C:\WINDOWS\system
+32\drivers\AgileVpn.sys         4.096
+Rasl2tp      WAN Miniport (L2TP)    WAN Miniport (L2TP)    Kernel        Manual     Running    OK
+TRUE        FALSE        73.728            20.480      0                                 C:\WINDOWS\system
+32\drivers\rasl2tp.sys          4.096
+RasPppoe     Remote Access PPPOE Dr Remote Access PPPOE Dr Kernel        Manual     Running    OK
+TRUE        FALSE        49.152            28.672      0                                 C:\WINDOWS\system
+32\DRIVERS\raspppoe.sys         4.096
+RasSstp      WAN Miniport (SSTP)    WAN Miniport (SSTP)    Kernel        Manual     Running    OK
+TRUE        FALSE        49.152            24.576      0                                 C:\WINDOWS\system
+32\drivers\rassstp.sys          4.096
+rdbss        Yeniden Yönlendirilen  Yeniden Yönlendirilen  File System   System     Running    OK
+TRUE        FALSE        217.088           143.360     0                                 C:\WINDOWS\system
+32\DRIVERS\rdbss.sys            8.192
+rdpbus       Uzak Masaüstü Aygıt Ye Uzak Masaüstü Aygıt Ye Kernel        Manual     Running    OK
+TRUE        FALSE        16.384            12.288      0                                 C:\WINDOWS\system
+32\drivers\rdpbus.sys           4.096
+RDPDR        Remote Desktop Device  Remote Desktop Device  Kernel        Manual     Stopped    OK
+FALSE       FALSE        110.592           24.576      0                                 C:\WINDOWS\system
+32\drivers\rdpdr.sys            4.096
+RdpVideoMini Remote Desktop Video M Remote Desktop Video M Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            4.096       0                                 C:\WINDOWS\system
+32\drivers\rdpvideominiport.sys 4.096
+rdyboost     ReadyBoost             ReadyBoost             Kernel        Boot       Running    OK
+TRUE        FALSE        45.056            172.032     0                                 C:\WINDOWS\system
+32\drivers\rdyboost.sys         4.096
+ReFS         ReFS                   ReFS                   File System   Manual     Stopped    OK
+FALSE       FALSE        565.248           1.060.864   0                                 C:\WINDOWS\system
+32\drivers\ReFS.sys             16.384
+ReFSv1       ReFSv1                 ReFSv1                 File System   Manual     Stopped    OK
+FALSE       FALSE        356.352           417.792     0                                 C:\WINDOWS\system
+32\drivers\ReFSv1.sys           8.192
+RFCOMM       Bluetooth Device (RFCO Bluetooth Device (RFCO Kernel        Manual     Stopped    OK
+FALSE       FALSE        20.480            135.168     0                                 C:\WINDOWS\system
+32\drivers\rfcomm.sys           4.096
+rhproxy      Kaynak Merkezi ara sun Kaynak Merkezi ara sun Kernel        Manual     Stopped    OK
+FALSE       FALSE        49.152            45.056      0                                 C:\WINDOWS\system
+32\drivers\rhproxy.sys          4.096
+rspndr       Bağlantı Katmanı Topol Bağlantı Katmanı Topol Kernel        Auto       Running    OK
+TRUE        FALSE        8.192             57.344      0                                 C:\WINDOWS\system
+32\drivers\rspndr.sys           4.096
+rt640x64     Realtek RT640 NT Drive Realtek RT640 NT Drive Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             1.191.936   0          28.11.2024 09:48:10    C:\WINDOWS\system
+32\drivers\rt640x64.sys         8.192
+RtkBtFilter  Realtek Bluetooth Filt Realtek Bluetooth Filt Kernel        Manual     Running    OK
+TRUE        FALSE        49.152            528.384     0          3.03.2023 14:12:23     C:\WINDOWS\system
+32\drivers\RtkBtfilter.sys      4.096
+RtlWlanu     Realtek Kablosuz LAN 8 Realtek Kablosuz LAN 8 Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.431.872   0          29.07.2019 11:43:57    C:\WINDOWS\system
+32\drivers\rtwlanu.sys          4.096
+RTSUER       Realtek USB Card Reade Realtek USB Card Reade Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             741.376     0          22.04.2024 05:41:16    C:\WINDOWS\system
+32\Drivers\RtsUer.sys           8.192
+RTWlanE      Realtek Wireless LAN 8 Realtek Wireless LAN 8 Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             5.046.272   0          16.05.2024 09:51:30    C:\WINDOWS\system
+32\DRIVERS\rtwlane.sys          8.192
+s3cap        s3cap                  s3cap                  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\vms3cap.sys          4.096
+sbp2port     SBP-2 Aktarma/Protokol SBP-2 Aktarma/Protokol Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            77.824      0                                 C:\WINDOWS\system
+32\drivers\sbp2port.sys         4.096
+scfilter     Akıllı kart PnP Sınıfı Akıllı kart PnP Sınıfı Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             28.672      0                                 C:\WINDOWS\system
+32\DRIVERS\scfilter.sys         4.096
+scmbus       Microsoft Depolama Sın Microsoft Depolama Sın Kernel        Manual     Stopped    OK
+FALSE       FALSE        28.672            61.440      0                                 C:\WINDOWS\system
+32\drivers\scmbus.sys           4.096
+sdbus        sdbus                  sdbus                  Kernel        Manual     Running    OK
+TRUE        FALSE        28.672            204.800     0                                 C:\WINDOWS\system
+32\drivers\sdbus.sys            8.192
+SDFRd        SDF Yansıtıcısı        SDF Yansıtıcısı        Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            4.096       0                                 C:\WINDOWS\system
+32\drivers\SDFRd.sys            4.096
+sdstor       SD Depolama Bağlantı N SD Depolama Bağlantı N Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            49.152      0                                 C:\WINDOWS\system
+32\drivers\sdstor.sys           4.096
+SerCx        Serial UART Support Li Serial UART Support Li Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             57.344      0                                 C:\WINDOWS\system
+32\drivers\SerCx.sys            4.096
+SerCx2       Serial UART Support Li Serial UART Support Li Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             106.496     0                                 C:\WINDOWS\system
+32\drivers\SerCx2.sys           4.096
+Serenum      Serenum Filtre Sürücüs Serenum Filtre Sürücüs Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            8.192       0                                 C:\WINDOWS\system
+32\drivers\serenum.sys          4.096
+Serial       Seri bağlantı noktası  Seri bağlantı noktası  Kernel        Manual     Stopped    OK
+FALSE       FALSE        40.960            20.480      0                                 C:\WINDOWS\system
+32\drivers\serial.sys           4.096
+sermouse     Seri Fare Sürücüsü     Seri Fare Sürücüsü     Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            8.192       0                                 C:\WINDOWS\system
+32\drivers\sermouse.sys         4.096
+sfloppy      Yüksek Kapasiteli Disk Yüksek Kapasiteli Disk Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\sfloppy.sys          4.096
+SiSRaid2     SiSRaid2               SiSRaid2               Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 32.768      0          24.09.2008 21:28:20    C:\WINDOWS\system
+32\drivers\SiSRaid2.sys         4.096
+SiSRaid4     SiSRaid4               SiSRaid4               Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 69.632      0          2.10.2008 00:56:04     C:\WINDOWS\system
+32\drivers\sisraid4.sys         4.096
+SmartSAMD    SmartSAMD              SmartSAMD              Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 188.416     0          21.02.2019 20:54:44    C:\WINDOWS\system
+32\drivers\SmartSAMD.sys        4.096
+smbdirect    smbdirect              smbdirect              File System   Manual     Stopped    OK
+FALSE       FALSE        8.192             77.824      0                                 C:\WINDOWS\system
+32\DRIVERS\smbdirect.sys        4.096
+spaceparser  Space Parser           Space Parser           Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0                                 C:\WINDOWS\system
+32\drivers\spaceparser.sys      4.096
+spaceport    Depolama Alanları Sürü Depolama Alanları Sürü Kernel        Boot       Running    OK
+TRUE        FALSE        196.608           274.432     0                                 C:\WINDOWS\system
+32\drivers\spaceport.sys        4.096
+SpatialGraph Holographic Spatial Gr Holographic Spatial Gr Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\SpatialGraphFilter.s 4.096
+SpbCx        Simple Peripheral Bus  Simple Peripheral Bus  Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\SpbCx.sys            4.096
+srv2         Sunucu SMB 2.xxx Sürüc Sunucu SMB 2.xxx Sürüc File System   Manual     Running    OK
+TRUE        FALSE        245.760           204.800     0                                 C:\WINDOWS\system
+32\DRIVERS\srv2.sys             4.096
+srvnet       srvnet                 srvnet                 File System   Manual     Running    OK
+TRUE        FALSE        86.016            159.744     0                                 C:\WINDOWS\system
+32\DRIVERS\srvnet.sys           4.096
+ST50220      Sonix ST50220 USB Vide Sonix ST50220 USB Vide Kernel        Manual     Running    OK
+TRUE        FALSE        0                 32.768      0          29.05.2008 12:51:35    C:\WINDOWS\system
+32\Drivers\ST50220.sys          4.096
+stexstor     stexstor               stexstor               Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 16.384      0          27.11.2012 03:02:51    C:\WINDOWS\system
+32\drivers\stexstor.sys         4.096
+storahci     Microsoft Standart SAT Microsoft Standart SAT Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 143.360     0                                 C:\WINDOWS\system
+32\drivers\storahci.sys         4.096
+storflt      Microsoft Hyper-V Depo Microsoft Hyper-V Depo Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             16.384      0                                 C:\WINDOWS\system
+32\drivers\vmstorfl.sys         4.096
+stornvme     Microsoft Standart NVM Microsoft Standart NVM Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             122.880     0                                 C:\WINDOWS\system
+32\drivers\stornvme.sys         4.096
+storqosflt   Depolama QoS Filtre Sü Depolama QoS Filtre Sü File System   Auto       Running    OK
+TRUE        FALSE        20.480            36.864      0                                 C:\WINDOWS\system
+32\drivers\storqosflt.sys       4.096
+storufs      Microsoft Evrensel Fla Microsoft Evrensel Fla Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             40.960      0                                 C:\WINDOWS\system
+32\drivers\storufs.sys          4.096
+storvsc      storvsc                storvsc                Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             16.384      0                                 C:\WINDOWS\system
+32\drivers\storvsc.sys          4.096
+swenum       Yazılım Veri Yolu Sürü Yazılım Veri Yolu Sürü Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\s 4.096
+Synth3dVsc   Synth3dVsc             Synth3dVsc             Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 4.096       0                                 C:\WINDOWS\system
+32\drivers\Synth3dVsc.sys       0
+Tcpip        TCP/IP İletişim Kurall TCP/IP İletişim Kurall Kernel        Boot       Running    OK
+TRUE        FALSE        204.800           1.839.104   0                                 C:\WINDOWS\system
+32\drivers\tcpip.sys            12.288
+Tcpip6       @todo.dll,-100;Microso @todo.dll,-100;Microso Kernel        Manual     Stopped    OK
+FALSE       FALSE        204.800           1.839.104   0                                 C:\WINDOWS\system
+32\drivers\tcpip.sys            12.288
+tcpipreg     TCP/IP Registry Compat TCP/IP Registry Compat Kernel        Auto       Running    OK
+TRUE        FALSE        4.096             32.768      0                                 C:\WINDOWS\system
+32\drivers\tcpipreg.sys         4.096
+tdx          NetIO Eski TDI Desteği NetIO Eski TDI Desteği Kernel        System     Running    OK
+TRUE        FALSE        4.096             90.112      0                                 C:\WINDOWS\system
+32\DRIVERS\tdx.sys              4.096
+Telemetry    Intel(R) Telemetri Hiz Intel(R) Telemetri Hiz Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\IntelTA.sys          4.096
+terminpt     Microsoft Uzak Masaüst Microsoft Uzak Masaüst Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            12.288      0                                 C:\WINDOWS\system
+32\drivers\terminpt.sys         4.096
+TPM          TPM                    TPM                    Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             208.896     0                                 C:\WINDOWS\system
+32\drivers\tpm.sys              4.096
+TsUsbFlt     Remote Desktop USB Hub Remote Desktop USB Hub Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             40.960      0                                 C:\WINDOWS\system
+32\drivers\tsusbflt.sys         4.096
+TsUsbGD      Uzak Masaüstü Genel US Uzak Masaüstü Genel US Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             24.576      0                                 C:\WINDOWS\system
+32\drivers\TsUsbGD.sys          4.096
+tsusbhub     Remote Desktop USB Hub Remote Desktop USB Hub Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             94.208      0                                 C:\WINDOWS\system
+32\drivers\tsusbhub.sys         4.096
+tunnel       Microsoft Tüneli Minip Microsoft Tüneli Minip Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            61.440      0                                 C:\WINDOWS\system
+32\drivers\tunnel.sys           4.096
+UASPStor     USB ile Bağlanan SCSI  USB ile Bağlanan SCSI  Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\uaspstor.sys         4.096
+UcmCx0101    USB Connector Manager  USB Connector Manager  Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             126.976     0                                 C:\WINDOWS\system
+32\Drivers\UcmCx.sys            4.096
+UcmTcpciCx01 UCM-TCPCI KMDF Class E UCM-TCPCI KMDF Class E Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            110.592     0                                 C:\WINDOWS\system
+32\Drivers\UcmTcpciCx.sys       4.096
+UcmUcsiAcpiC UCM-UCSI ACPI İstemcis UCM-UCSI ACPI İstemcis Kernel        Manual     Stopped    OK
+FALSE       FALSE        16.384            12.288      0                                 C:\WINDOWS\system
+32\drivers\UcmUcsiAcpiClient.sy 4.096
+UcmUcsiCx010 UCM-UCSI KMDF Class Ex UCM-UCSI KMDF Class Ex Kernel        Manual     Stopped    OK
+FALSE       FALSE        28.672            61.440      0                                 C:\WINDOWS\system
+32\Drivers\UcmUcsiCx.sys        4.096
+UCPD         UCPD                   UCPD                   File System   System     Running    OK
+TRUE        FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\UCPD.sys             4.096
+Ucx01000     USB Host Support Libra USB Host Support Libra Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             139.264     0                                 C:\WINDOWS\system
+32\drivers\ucx01000.sys         4.096      
+UdeCx        USB Device Emulation S USB Device Emulation S Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             36.864      0                                 C:\WINDOWS\system
+32\drivers\udecx.sys            4.096
+udfs         udfs                   udfs                   File System   Disabled   Stopped    OK
+FALSE       FALSE        184.320           118.784     0                                 C:\WINDOWS\system
+32\DRIVERS\udfs.sys             4.096
+UEFI         Microsoft UEFI Sürücüs Microsoft UEFI Sürücüs Kernel        Manual     Running    OK
+TRUE        FALSE        12.288            4.096       0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\u 4.096
+UevAgentDriv UevAgentDriver         UevAgentDriver         File System   Disabled   Stopped    OK
+FALSE       FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\UevAgentDriver.sys   4.096
+Ufx01000     USB Function Class Ext USB Function Class Ext Kernel        Manual     Stopped    OK
+FALSE       FALSE        81.920            155.648     0                                 C:\WINDOWS\system
+32\drivers\ufx01000.sys         4.096
+UfxChipidea  USB Chipidea Denetleyi USB Chipidea Denetleyi Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            61.440      0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\u 4.096
+ufxsynopsys  USB Synopsys Denetleyi USB Synopsys Denetleyi Kernel        Manual     Stopped    OK
+FALSE       FALSE        32.768            90.112      0                                 C:\WINDOWS\system
+32\drivers\ufxsynopsys.sys      4.096
+umbus        UMBus Numaralandırıcı  UMBus Numaralandırıcı  Kernel        Manual     Running    OK
+TRUE        FALSE        36.864            8.192       0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\u 4.096
+UmPass       Microsoft UMPass Sürüc Microsoft UMPass Sürüc Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\umpass.sys           4.096
+UrsChipidea  Chipidea USB Rol Geçiş Chipidea USB Rol Geçiş Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\u 4.096
+UrsCx01000   USB Role-Switch Suppor USB Role-Switch Suppor Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\urscx01000.sys       4.096
+UrsSynopsys  Synopsys USB Rol Geçiş Synopsys USB Rol Geçiş Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\u 4.096
+usbaudio     USB Ses Sürücüsü (WDM) USB Ses Sürücüsü (WDM) Kernel        Manual     Stopped    OK
+FALSE       FALSE        77.824            73.728      0                                 C:\WINDOWS\system
+32\drivers\usbaudio.sys         4.096
+usbaudio2    USB Audio 2.0 Hizmeti  USB Audio 2.0 Hizmeti  Kernel        Manual     Stopped    OK
+FALSE       FALSE        155.648           69.632      0                                 C:\WINDOWS\system
+32\drivers\usbaudio2.sys        4.096
+usbccgp      Microsoft USB Genel Üs Microsoft USB Genel Üs Kernel        Manual     Stopped    OK
+FALSE       FALSE        53.248            90.112      0                                 C:\WINDOWS\system
+32\drivers\usbccgp.sys          4.096
+usbcir       eHome Kızılötesi Alıcı eHome Kızılötesi Alıcı Kernel        Manual     Stopped    OK
+FALSE       FALSE        20.480            73.728      0                                 C:\WINDOWS\system
+32\drivers\usbcir.sys           4.096
+usbehci      Microsoft USB 2.0 Geli Microsoft USB 2.0 Geli Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 65.536      0                                 C:\WINDOWS\system
+32\drivers\usbehci.sys          4.096
+usbhub       Microsoft USB Standart Microsoft USB Standart Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             380.928     0                                 C:\WINDOWS\system
+32\drivers\usbhub.sys           4.096
+USBHUB3      Süper Hızlı Hub        Süper Hızlı Hub        Kernel        Manual     Running    OK
+TRUE        FALSE        86.016            270.336     0                                 C:\WINDOWS\system
+32\drivers\UsbHub3.sys          4.096
+usbohci      Microsoft USB Açık Ana Microsoft USB Açık Ana Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 24.576      0                                 C:\WINDOWS\system
+32\drivers\usbohci.sys          4.096
+usbprint     Microsoft USB YAZICI S Microsoft USB YAZICI S Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             28.672      0                                 C:\WINDOWS\system
+32\drivers\usbprint.sys         4.096
+usbser       Microsoft USB Seri Sür Microsoft USB Seri Sür Kernel        Manual     Stopped    OK         
+FALSE       FALSE        24.576            49.152      0                                 C:\WINDOWS\system
+32\drivers\usbser.sys           4.096
+USBSTOR      USB Yığın Depolama Sür USB Yığın Depolama Sür Kernel        Manual     Stopped    OK
+FALSE       FALSE        40.960            61.440      0                                 C:\WINDOWS\system
+32\drivers\USBSTOR.SYS          4.096
+usbuhci      Microsoft USB Universa Microsoft USB Universa Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 28.672      0                                 C:\WINDOWS\system
+32\drivers\usbuhci.sys          4.096
+USBXHCI      USB xHCI Uyumlu Ana Bi USB xHCI Uyumlu Ana Bi Kernel        Manual     Running    OK
+TRUE        FALSE        65.536            331.776     0                                 C:\WINDOWS\system
+32\drivers\USBXHCI.SYS          4.096
+vdrvroot     Microsoft Sanal Sürücü Microsoft Sanal Sürücü Kernel        Boot       Running    OK
+TRUE        FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\vdrvroot.sys         4.096
+VerifierExt  Sürücü Doğrulayıcı Uza Sürücü Doğrulayıcı Uza Kernel        Disabled   Stopped    OK
+FALSE       FALSE        8.192             237.568     0                                 C:\WINDOWS\system
+32\drivers\VerifierExt.sys      4.096
+vhdmp        vhdmp                  vhdmp                  Kernel        Manual     Stopped    OK
+FALSE       FALSE        299.008           364.544     0                                 C:\WINDOWS\system
+32\drivers\vhdmp.sys            4.096
+vhf          Sanal HID Çerçevesi (V Sanal HID Çerçevesi (V Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            24.576      0                                 C:\WINDOWS\system
+32\drivers\vhf.sys              4.096      
+Vid          Vid                    Vid                    Kernel        System     Running    OK
+TRUE        FALSE        299.008           176.128     0                                 C:\WINDOWS\system
+32\drivers\Vid.sys              4.096
+VirtualRende VirtualRender          VirtualRender          Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\v 4.096
+vmbus        Sanal Makine Veri Yolu Sanal Makine Veri Yolu Kernel        Manual     Stopped    OK
+FALSE       FALSE        32.768            90.112      0                                 C:\WINDOWS\system
+32\drivers\vmbus.sys            4.096
+VMBusHID     VMBusHID               VMBusHID               Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             12.288      0                                 C:\WINDOWS\system
+32\drivers\VMBusHID.sys         4.096
+vmci         VMware VMCI Bus Driver VMware VMCI Bus Driver Kernel        Boot       Running    OK
+TRUE        FALSE        8.192             69.632      0          6.07.2024 06:54:55     C:\WINDOWS\system
+32\drivers\vmci.sys             4.096
+vmgid        Microsoft Hyper-V Konu Microsoft Hyper-V Konu Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\vmgid.sys            4.096
+VMnetAdapter VMware Virtual Etherne VMware Virtual Etherne Kernel        Manual     Running    OK
+TRUE        FALSE        0                 12.288      0          15.06.2024 08:53:48    C:\WINDOWS\system
+32\drivers\vmnetadapter.sys     4.096
+VMnetBridge  VMware Bridge Protocol VMware Bridge Protocol Kernel        Auto       Running    OK
+TRUE        FALSE        0                 32.768      0          15.06.2024 08:53:50    C:\WINDOWS\system
+32\DRIVERS\vmnetbridge.sys      4.096
+VMnetuserif  VMware Virtual Etherne VMware Virtual Etherne Kernel        Auto       Running    OK
+TRUE        FALSE        0                 12.288      0          15.06.2024 08:53:48    C:\WINDOWS\system
+32\DRIVERS\vmnetuserif.sys      4.096
+vmx86        VMware vmx86           VMware vmx86           Kernel        Auto       Running    OK
+TRUE        FALSE        0                 69.632      0          18.06.2024 15:57:22    C:\WINDOWS\system
+32\DRIVERS\vmx86.sys            4.096
+volmgr       Birim Yöneticisi Sürüc Birim Yöneticisi Sürüc Kernel        Boot       Running    OK
+TRUE        FALSE        36.864            16.384      0                                 C:\WINDOWS\system
+32\drivers\volmgr.sys           4.096
+volmgrx      Dinamik Birim Yönetici Dinamik Birim Yönetici Kernel        Boot       Running    OK
+TRUE        FALSE        225.280           110.592     0                                 C:\WINDOWS\system
+32\drivers\volmgrx.sys          4.096
+volsnap      Birim Gölge Kopya sürü Birim Gölge Kopya sürü Kernel        Boot       Running    OK
+TRUE        FALSE        229.376           61.440      0                                 C:\WINDOWS\system
+32\drivers\volsnap.sys          4.096
+volume       Birim sürücüsü         Birim sürücüsü         Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\volume.sys           4.096
+vpci         Microsoft Hyper-V Sana Microsoft Hyper-V Sana Kernel        Manual     Stopped    OK
+FALSE       FALSE        36.864            28.672      0                                 C:\WINDOWS\system
+32\drivers\vpci.sys             4.096
+vsmraid      vsmraid                vsmraid                Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 143.360     0          22.04.2014 22:21:41    C:\WINDOWS\system
+32\drivers\vsmraid.sys          4.096
+vsock        vSockets Virtual Machi vSockets Virtual Machi Kernel        Boot       Running    OK
+TRUE        FALSE        8.192             53.248      0          6.07.2024 06:55:37     C:\WINDOWS\system
+32\DRIVERS\vsock.sys            4.096
+VSTXRAID     VIA StorX Depolama Ala VIA StorX Depolama Ala Kernel        Manual     Stopped    OK
+FALSE       FALSE        0                 278.528     0          21.01.2013 22:00:28    C:\WINDOWS\system
+32\drivers\vstxraid.sys         4.096
+vwifibus     Virtual Wireless Bus D Virtual Wireless Bus D Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             12.288      0                                 C:\WINDOWS\system
+32\drivers\vwifibus.sys         4.096
+vwififlt     Virtual WiFi Filter Dr Virtual WiFi Filter Dr Kernel        System     Running    OK
+TRUE        FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\vwififlt.sys         4.096
+vwifimp      Virtual WiFi Miniport  Virtual WiFi Miniport  Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             32.768      0                                 C:\WINDOWS\system
+32\drivers\vwifimp.sys          4.096
+WacomPen     Wacom Serial Pen İAC S Wacom Serial Pen İAC S Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            8.192       0                                 C:\WINDOWS\system
+32\drivers\wacompen.sys         4.096
+wanarp       Remote Access IP ARP D Remote Access IP ARP D Kernel        Auto       Running    OK
+TRUE        FALSE        53.248            20.480      0                                 C:\WINDOWS\system
+32\DRIVERS\wanarp.sys           4.096
+wanarpv6     Remote Access IPv6 ARP Remote Access IPv6 ARP Kernel        Manual     Stopped    OK
+FALSE       FALSE        53.248            20.480      0                                 C:\WINDOWS\system
+32\DRIVERS\wanarp.sys           4.096
+wcifs        Windows Container Isol Windows Container Isol File System   Auto       Running    OK
+TRUE        FALSE        131.072           28.672      0                                 C:\WINDOWS\system
+32\drivers\wcifs.sys            8.192
+wcnfs        Windows Container Name Windows Container Name File System   Manual     Stopped    OK
+FALSE       FALSE        53.248            16.384      0                                 C:\WINDOWS\system
+32\drivers\wcnfs.sys            4.096
+WdBoot       Microsoft Defender Vir Microsoft Defender Vir Kernel        Boot       Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\wd\WdBoot.sys        4.096
+Wdf01000     Çekirdek Modu Sürücü Ç Çekirdek Modu Sürücü Ç Kernel        Boot       Running    OK
+TRUE        FALSE        49.152            593.920     0                                 C:\WINDOWS\system
+32\drivers\Wdf01000.sys         4.096
+WdFilter     Microsoft Defender Vir Microsoft Defender Vir File System   Boot       Running    OK
+TRUE        FALSE        405.504           69.632      0                                 C:\WINDOWS\system
+32\drivers\wd\WdFilter.sys      45.056
+wdiwifi      WDI Driver Framework   WDI Driver Framework   Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             811.008     0                                 C:\WINDOWS\system
+32\DRIVERS\wdiwifi.sys          4.096
+WdmCompanion WdmCompanionFilter     WdmCompanionFilter     Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\WdmCompanionFilter.s 4.096
+WdNisDrv     Microsoft Defender Vir Microsoft Defender Vir Kernel        Manual     Running    OK
+TRUE        FALSE        12.288            57.344      0                                 C:\WINDOWS\system
+32\drivers\wd\WdNisDrv.sys      4.096
+WFPLWFS      Microsoft Windows Filt Microsoft Windows Filt Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             110.592     0                                 C:\WINDOWS\system
+32\drivers\wfplwfs.sys          4.096
+WIMMount     WIMMount               WIMMount               File System   Manual     Stopped    OK
+FALSE       FALSE        12.288            8.192       0                                 C:\WINDOWS\system
+32\drivers\wimmount.sys         4.096
+WindowsTrust Windows Trusted Execut Windows Trusted Execut Kernel        Boot       Running    OK
+TRUE        FALSE        8.192             49.152      0                                 C:\WINDOWS\system
+32\drivers\WindowsTrustedRT.sys 4.096
+WindowsTrust Microsoft Windows Güve Microsoft Windows Güve Kernel        Boot       Running    OK
+TRUE        FALSE        4.096             4.096       0                                 C:\WINDOWS\system
+32\drivers\WindowsTrustedRTProx 4.096
+WinMad       WinMad Hizmeti         WinMad Hizmeti         Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             20.480      0          19.06.2019 16:18:11    C:\WINDOWS\system
+32\drivers\winmad.sys           4.096
+WinNat       Windows NAT Sürücüsü   Windows NAT Sürücüsü   Kernel        Manual     Stopped    OK
+FALSE       FALSE        36.864            122.880     0                                 C:\WINDOWS\system
+32\drivers\winnat.sys           4.096
+WINUSB       WinUsb Sürücüsü        WinUsb Sürücüsü        Kernel        Manual     Stopped    OK
+FALSE       FALSE        24.576            65.536      0                                 C:\WINDOWS\system
+32\drivers\WinUsb.sys           4.096
+WinVerbs     WinVerbs Hizmeti       WinVerbs Hizmeti       Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             53.248      0          19.06.2019 16:18:12    C:\WINDOWS\system
+32\drivers\winverbs.sys         4.096
+WmiAcpi      Microsoft Windows Mana Microsoft Windows Mana Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             4.096       0                                 C:\WINDOWS\system
+32\drivers\wmiacpi.sys          4.096
+Wof          Windows Overlay File S Windows Overlay File S File System   Boot       Running    OK
+TRUE        FALSE        110.592           65.536      0                                 C:\WINDOWS\system
+32\drivers\Wof.sys              8.192
+WpdUpFltr    WPD Upper Class Filter WPD Upper Class Filter Kernel        Manual     Stopped    OK
+FALSE       FALSE        8.192             12.288      0                                 C:\WINDOWS\system
+32\drivers\WpdUpFltr.sys        4.096
+ws2ifsl      Windows Socket 2.0 IFS Windows Socket 2.0 IFS Kernel        System     Running    OK
+TRUE        FALSE        12.288            8.192       0                                 C:\WINDOWS\system
+32\drivers\ws2ifsl.sys          4.096
+WudfPf       User Mode Driver Frame User Mode Driver Frame Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            90.112      0                                 C:\WINDOWS\system
+32\drivers\WudfPf.sys           4.096
+WUDFRd       Windows Driver Foundat Windows Driver Foundat Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             245.760     0                                 C:\WINDOWS\system
+32\drivers\WUDFRd.sys           4.096
+WUDFWpdFs    WPD Dosya Sistemi sürü WPD Dosya Sistemi sürü Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             245.760     0                                 C:\WINDOWS\system
+32\drivers\WUDFRd.sys           4.096
+WUDFWpdMtp   WUDFWpdMtp             WUDFWpdMtp             Kernel        Manual     Running    OK
+TRUE        FALSE        8.192             245.760     0                                 C:\WINDOWS\system
+32\drivers\WUDFRd.sys           4.096
+xboxgip      Xbox Oyun Giriş Protok Xbox Oyun Giriş Protok Kernel        Manual     Stopped    OK
+FALSE       FALSE        12.288            270.336     0                                 C:\WINDOWS\system
+32\drivers\xboxgip.sys          4.096
+xinputhid    XINPUT HID Filtre Sürü XINPUT HID Filtre Sürü Kernel        Manual     Stopped    OK
+FALSE       FALSE        4.096             45.056      0                                 C:\WINDOWS\system
+32\drivers\xinputhid.sys        4.096
+Xvdd         XVDD Port Driver       XVDD Port Driver       Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             532.480     0                                 C:\WINDOWS\system
+32\DriverStore\FileRepository\x 4.096
+KslD         KslD                   KslD                   Kernel        Manual     Running    OK
+TRUE        FALSE        4.096             53.248      0                                 C:\WINDOWS\system
+32\drivers\wd\KslD.sys          8.192
+Error: (none)
+Exit Code: 0
+Signal: (none)
+Process Group PGID: 9252

@@ -1,0 +1,43 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "qwen-oauth"
+    },
+    "approvalMode": "default"
+  },
+  "model": {
+    "name": "coder-model"
+  },
+  "memory": {
+    "enabled": true,
+    "projectMemoryPath": "C:\\Users\\hamzahanbulut\\.qwen\\PROJECT_MEMORY.md",
+    "globalMemoryPath": "C:\\Users\\hamzahanbulut\\.qwen\\QWEN.md",
+    "autoSave": true,
+    "autoLoad": true
+  },
+  "startup": {
+    "loadProjectMemory": true,
+    "loadGlobalMemory": true,
+    "loadSkills": true,
+    "workingDirectory": "C:\\Users\\hamzahanbulut\\Desktop\\whatsapp-remote"
+  },
+  "skills": {
+    "autoresearch": {
+      "enabled": true,
+      "autoLoad": true
+    },
+    "memory": {
+      "enabled": true,
+      "autoLoad": true
+    },
+    "loop": {
+      "enabled": true,
+      "autoLoad": true
+    },
+    "review": {
+      "enabled": true,
+      "autoLoad": true
+    }
+  },
+  "$version": 3
+}

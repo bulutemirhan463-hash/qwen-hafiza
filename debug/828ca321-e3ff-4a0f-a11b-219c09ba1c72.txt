@@ -1,0 +1,69 @@
+2026-04-01T20:29:56.076Z [INFO] Config initialization started
+2026-04-01T20:29:56.097Z [DEBUG] [BUNDLED_SKILL_LOADER] SkillManager not available, skipping bundled skills
+2026-04-01T20:29:56.209Z [DEBUG] Extension manager initialized
+2026-04-01T20:29:56.209Z [DEBUG] Hook system disabled, skipping initialization
+2026-04-01T20:29:56.212Z [INFO] [SKILL_MANAGER] Starting skill directory watchers...
+2026-04-01T20:29:56.317Z [INFO] [SKILL_MANAGER] Refreshing skills cache...
+2026-04-01T20:29:56.318Z [DEBUG] [SKILL_MANAGER] Loading project level skills from: C:\WINDOWS\system32\.qwen\skills
+2026-04-01T20:29:56.318Z [DEBUG] [SKILL_MANAGER] Loading skills from directory: C:\WINDOWS\system32\.qwen\skills
+2026-04-01T20:29:56.325Z [DEBUG] [SKILL_MANAGER] Cannot read skills directory C:\WINDOWS\system32\.qwen\skills: ENOENT: no such file or directory, scandir 'C:\WINDOWS\system32\.qwen\skills'
+2026-04-01T20:29:56.326Z [DEBUG] [SKILL_MANAGER] Loading skills from directory: C:\WINDOWS\system32\.agents\skills
+2026-04-01T20:29:56.325Z [DEBUG] [SKILL_MANAGER] Loading project level skills from: C:\WINDOWS\system32\.agents\skills
+2026-04-01T20:29:56.329Z [DEBUG] [SKILL_MANAGER] Cannot read skills directory C:\WINDOWS\system32\.agents\skills: ENOENT: no such file or directory, scandir 'C:\WINDOWS\system32\.agents\skills'
+2026-04-01T20:29:56.330Z [DEBUG] [SKILL_MANAGER] Loaded 0 project level skills
+2026-04-01T20:29:56.330Z [DEBUG] [SKILL_MANAGER] Loaded 0 project level skills
+2026-04-01T20:29:56.330Z [DEBUG] [SKILL_MANAGER] Loading user level skills from: C:\Users\hamzahanbulut\.qwen\skills
+2026-04-01T20:29:56.330Z [DEBUG] [SKILL_MANAGER] Loading skills from directory: C:\Users\hamzahanbulut\.qwen\skills
+2026-04-01T20:29:56.332Z [DEBUG] [SKILL_MANAGER] Found 0 entries in C:\Users\hamzahanbulut\.qwen\skills
+2026-04-01T20:29:56.332Z [DEBUG] [SKILL_MANAGER] Loading user level skills from: C:\Users\hamzahanbulut\.agents\skills
+2026-04-01T20:29:56.332Z [DEBUG] [SKILL_MANAGER] Loading skills from directory: C:\Users\hamzahanbulut\.agents\skills
+2026-04-01T20:29:56.333Z [DEBUG] [SKILL_MANAGER] Cannot read skills directory C:\Users\hamzahanbulut\.agents\skills: ENOENT: no such file or directory, scandir 'C:\Users\hamzahanbulut\.agents\skills'
+2026-04-01T20:29:56.333Z [DEBUG] [SKILL_MANAGER] Loaded 0 user level skills
+2026-04-01T20:29:56.333Z [DEBUG] [SKILL_MANAGER] Loaded 0 user level skills
+2026-04-01T20:29:56.333Z [DEBUG] [SKILL_MANAGER] Loaded 0 extension-level skills from 0 extensions
+2026-04-01T20:29:56.333Z [DEBUG] [SKILL_MANAGER] Loaded 0 extension level skills
+2026-04-01T20:29:56.334Z [DEBUG] [SKILL_MANAGER] Loading bundled skills from: C:\Users\hamzahanbulut\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\bundled
+2026-04-01T20:29:56.334Z [DEBUG] [SKILL_MANAGER] Loading skills from directory: C:\Users\hamzahanbulut\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\bundled
+2026-04-01T20:29:56.336Z [DEBUG] [SKILL_MANAGER] Found 2 entries in C:\Users\hamzahanbulut\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\bundled
+2026-04-01T20:29:56.382Z [DEBUG] [SKILL_MANAGER] Successfully parsed skill: qc-helper (bundled) from C:\Users\hamzahanbulut\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\bundled\qc-helper\SKILL.md
+2026-04-01T20:29:56.384Z [DEBUG] [SKILL_MANAGER] Successfully parsed skill: review (bundled) from C:\Users\hamzahanbulut\AppData\Roaming\npm\node_modules\@qwen-code\qwen-code\bundled\review\SKILL.md
+2026-04-01T20:29:56.384Z [DEBUG] [SKILL_MANAGER] Loaded 2 bundled skills
+2026-04-01T20:29:56.384Z [DEBUG] [SKILL_MANAGER] Loaded 2 bundled level skills
+2026-04-01T20:29:56.384Z [INFO] [SKILL_MANAGER] Skills cache refreshed: 2 total skills loaded
+2026-04-01T20:29:56.388Z [INFO] [SKILL_MANAGER] Skill directory watchers started
+2026-04-01T20:29:56.388Z [DEBUG] Skill manager initialized
+2026-04-01T20:29:56.389Z [DEBUG] Permission manager initialized
+2026-04-01T20:29:56.390Z [DEBUG] [MEMORY_DISCOVERY] Loading server hierarchical memory for CWD: C:\WINDOWS\system32 (importFormat: tree)
+2026-04-01T20:29:56.395Z [DEBUG] [MEMORY_DISCOVERY] Searching for QWEN.md starting from CWD: C:\WINDOWS\system32
+2026-04-01T20:29:56.403Z [DEBUG] [MEMORY_DISCOVERY] Determined project root: None
+2026-04-01T20:29:56.403Z [DEBUG] [MEMORY_DISCOVERY] Searching for AGENTS.md starting from CWD: C:\WINDOWS\system32
+2026-04-01T20:29:56.404Z [DEBUG] [MEMORY_DISCOVERY] Determined project root: None
+2026-04-01T20:29:56.404Z [DEBUG] [MEMORY_DISCOVERY] Final ordered QWEN.md,AGENTS.md paths to read: ["C:\\Users\\hamzahanbulut\\.qwen\\output-language.md"]
+2026-04-01T20:29:56.439Z [DEBUG] [MEMORY_DISCOVERY] Successfully read and processed imports: C:\Users\hamzahanbulut\.qwen\output-language.md (Length: 812)
+2026-04-01T20:29:56.439Z [DEBUG] Hierarchical memory loaded
+2026-04-01T20:29:56.442Z [DEBUG] [SKILL_MANAGER] Listing skills
+2026-04-01T20:29:56.442Z [DEBUG] [SKILL_MANAGER] Using cached skills
+2026-04-01T20:29:56.442Z [DEBUG] [SKILL_MANAGER] Processing 0 project level skills
+2026-04-01T20:29:56.443Z [DEBUG] [SKILL_MANAGER] Processing 0 user level skills
+2026-04-01T20:29:56.443Z [DEBUG] [SKILL_MANAGER] Processing 0 extension level skills
+2026-04-01T20:29:56.443Z [DEBUG] [SKILL_MANAGER] Processing 2 bundled level skills
+2026-04-01T20:29:56.443Z [INFO] [SKILL_MANAGER] Listed 2 unique skills
+2026-04-01T20:29:56.447Z [DEBUG] ToolRegistry created: ["agent","skill","list_directory","read_file","grep_search","glob","edit","write_file","run_shell_command","save_memory","todo_write","ask_user_question","exit_plan_mode","web_fetch","web_search"] (15 tools)
+2026-04-01T20:29:56.447Z [INFO] Tool registry initialized with 15 tools
+2026-04-01T20:29:56.466Z [INFO] Gemini client initialized
+2026-04-01T20:29:56.468Z [INFO] Config initialization completed
+2026-04-01T20:29:56.476Z [DEBUG] [APP_CONTAINER] SessionStart: HookSystem not available, skipping event
+2026-04-01T20:29:56.528Z [DEBUG] [SKILL_MANAGER] Using cached skills
+2026-04-01T20:29:56.528Z [DEBUG] [SKILL_MANAGER] Listing skills at level: bundled
+2026-04-01T20:29:56.528Z [DEBUG] [SKILL_MANAGER] Processing 2 bundled level skills
+2026-04-01T20:29:56.528Z [INFO] [SKILL_MANAGER] Listed 2 unique skills
+2026-04-01T20:29:56.538Z [DEBUG] [BUNDLED_SKILL_LOADER] Loaded 2 bundled skill(s) as slash commands
+2026-04-01T20:29:57.868Z [DEBUG] [IDE] Failed to read IDE connection directory: Error: ENOENT: no such file or directory, scandir 'C:\Users\hamzahanbulut\.qwen\ide'
+    at async Object.readdir (node:internal/fs/promises:955:18)
+    at async _IdeClient.getAllConnectionConfigs (file:///C:/Users/hamzahanbulut/AppData/Roaming/npm/node_modules/@qwen-code/qwen-code/cli.js:228225:24)
+    at async _IdeClient.getConnectionConfigFromFile (file:///C:/Users/hamzahanbulut/AppData/Roaming/npm/node_modules/@qwen-code/qwen-code/cli.js:228197:25)
+    at async file:///C:/Users/hamzahanbulut/AppData/Roaming/npm/node_modules/@qwen-code/qwen-code/cli.js:227855:39
+2026-04-01T20:32:50.523Z [DEBUG] Received user query (145 chars)
+2026-04-01T20:37:32.481Z [DEBUG] Received user query (165 chars)
+2026-04-01T20:41:33.904Z [DEBUG] Received user query (35 chars)
+2026-04-01T20:43:02.427Z [DEBUG] Received user query (4 chars)
