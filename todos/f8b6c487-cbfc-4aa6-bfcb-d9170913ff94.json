@@ -1,27 +1,27 @@
 {
   "todos": [
     {
-      "content": "Mevcut hafıza durumunu kaydet (snapshot)",
+      "content": "Mevcut hafıza snapshot'ını al",
       "id": "1",
       "status": "completed"
     },
     {
-      "content": "Sanal kapanış simülasyonu",
+      "content": "Sanal kapanış - sync-memory.bat çalıştır",
       "id": "2",
-      "status": "completed"
-    },
-    {
-      "content": "Sanal açılış ve hafıza yükleme simülasyonu",
-      "id": "3",
       "status": "in_progress"
     },
     {
-      "content": "Hafıza bütünlüğünü doğrula",
+      "content": "Sanal açılış - load-memory.bat çalıştır",
+      "id": "3",
+      "status": "pending"
+    },
+    {
+      "content": "Hafıza bütünlüğünü doğrula (dosyalar, içerik, GitHub)",
       "id": "4",
       "status": "pending"
     },
     {
-      "content": "Detaylı test raporu oluştur",
+      "content": "Final test raporu oluştur",
       "id": "5",
       "status": "pending"
     }
